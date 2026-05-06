@@ -1,158 +1,120 @@
 # Project Charter — ECO 6810 Final Project
 
-> Need the big picture first? Read the [Final Project brief](./FINAL_PROJECT.md) before you fill this out.
->
-> **What this is.** Your short approved project plan. It tells me what you are trying to do, what data you will use, what your main metric is, and what a good result would look like.
->
-> **What this is not.** A brainstorm or a long proposal. Keep it short, specific, and concrete.
->
-> **Why we use it.** It keeps the project focused. Once this is approved, the milestone and the final submission are judged against this plan, not against shifting expectations later.
->
-> **How to fill it.** Copy this file. Answer every field. Keep it under two pages. If a field asks for a number, give a real number with a unit.
->
-> **Where this lives.** Fill this out inside your team GitHub repo. That repo is where we will review and approve the charter.
->
-> **How approval works.** Revise `CHARTER.md` in the repo until it is approved. Do not treat the charter as a separate detached file living somewhere else.
->
-> **Simplest editing path.** Open `CHARTER.md` on GitHub, click the pencil icon, edit the file, and commit the change.
->
-> **After approval.** One teammate can freeze the approved version as a PDF with:
-> `pandoc CHARTER.md -o charter_approved.pdf`
-> Then commit that PDF to the repo as the locked approved copy.
-
----
-
 ## Header
 
 | Field | Value |
-|---|---|
-| Team members | _(names, 2–3 people)_ |
-| Project type | _(predictive / causal / descriptive — pick one)_ |
-| Estimated hours per person | _(be honest; solo projects should be around 50 hours; team projects around 45–50 hours per person)_ |
+|-------|-------|
+| Team members | Ujjwal Kumar, Piyush Pushpad
+| Project type | Descriptive |
+| Estimated hours per person | 45–50 hours |
 | Charter version | v1 |
-| Date | _(YYYY-MM-DD)_ |
-
-**Project type notes.** Predictive = you are trying to forecast or predict a quantity. Causal = you are trying to estimate the effect of a policy or intervention. Descriptive = you are measuring patterns or disparities without making a causal claim. The success threshold looks different for each type, so pick the one that fits your main question.
+| Date | 2026-05-06 |
 
 ---
 
 ## 1. Problem and stakeholder
 
-One paragraph. Who is the specific person, institution, or policy body that would care about the answer, and what decision does the answer inform? Generic "policymakers" is not a stakeholder; "the Ministry of Petroleum and Natural Gas deciding whether to extend PMUY subsidies in FY 2026-27" is.
-
-*Write here:*
+The Ministry of Home Affairs (MHA), Government of India, needs a data-driven summary of state-wise crime patterns to decide where to allocate central police modernisation funds under the Modernisation of Police Forces (MPF) scheme for FY 2026-27. Currently, allocation decisions rely on raw crime counts, which systematically over-fund large states and under-fund high-risk smaller ones. This project provides a per-capita crime rate analysis across 34 states and UTs (2001–2012) that gives the MHA a fairer basis for resource allocation decisions.
 
 ---
 
 ## 2. Main outcome variable
 
-The single number your project centres on. State:
-
-- **Name** of the variable
-- **Unit** (percentage, Rs/month, points, deaths per 1000, etc.)
-- **Source table/column/field**
-- **Population / panel** (which rows: which years, which geographies, which people)
-
-Only one main outcome. Secondary outcomes go under "Scope limits" as things you *may* report but will not be graded on.
-
-*Write here:*
+- **Name:** State-level IPC crime rate
+- **Unit:** Reported IPC cases per lakh population, per year
+- **Source:** NCRB — `01_District_wise_crimes_committed_IPC_2001_2012.csv`, column `TOTAL IPC CRIMES`, rows where `DISTRICT = "TOTAL"`, normalised by state population
+- **Population / panel:** 34 Indian states and UTs, years 2001–2012, aggregated to state level
 
 ---
 
 ## 3. Main quantitative success threshold
 
-A single numeric bar. Your project is a success if the delivered metric crosses this bar, and a failure if it does not. Pick one form:
+**Descriptive:** Produce stratified estimates of IPC crime rate (cases per lakh) across N ≥ 30 state/UT strata, for each of 12 years (2001–2012), with documented percentage change from baseline year (2001) to end year (2012) for each stratum.
 
-- **Predictive:** "Out-of-sample [metric] on [held-out slice] is at most X, versus baseline Y."
-- **Causal:** "Point estimate of [parameter] has 95% CI excluding zero, and |estimate| ≥ X [unit]."
-- **Descriptive:** "Produce stratified estimates of [outcome] across [N ≥ __] strata, each with sample size ≥ __ and documented standard error."
+The project is a success if:
+- Crime rate estimates are produced for ≥ 30 states
+- At least 10 crime categories are stratified separately
+- The nationwide percentage change 2001→2012 is computed and reported with the exact case counts used
 
-If you cannot write a number, you do not yet have a project — you have a topic. Go back to Section 2.
-
-*Write here:*
+Current preliminary value: **+27.48%** (total IPC crimes, 2001→2012)
 
 ---
 
 ## 4. Baseline to beat
 
-The naive or prior number your threshold is measured against. Examples:
+**National average IPC crime rate in 2001: 65.63 cases per lakh population.**
 
-- A previous study's coefficient or error.
-- A simple AR(1) or last-value forecast.
-- An unadjusted before-after difference.
+This is computed directly from the NCRB data:
+- Total IPC cases in 2001 across all states: 928,060
+- Total population covered: ~1,414 million
+- Baseline rate = 928,060 / (1,414M / 100,000) = 65.63
 
-State **what the baseline produces numerically** if you know it, or how you will compute it before the checkpoint if you do not. You must compute the baseline *before* you build anything fancy.
-
-*Write here:*
+All trend analysis and state comparisons are measured against this baseline. States above 65.63 in any given year are flagged as high-risk. This was computed before any modelling using `main.py`.
 
 ---
 
 ## 5. Falsifiable hypothesis
 
-One sentence the data can prove wrong. A sign, a threshold, or a rank ordering. Not "we will analyse X" — "X will be greater than Y by at least Z".
-
-*Write here:*
+States with higher population density (proxied by total population) will **not** necessarily have higher per-capita crime rates — at least 5 of the top 10 highest per-capita crime states in 2012 will be mid-sized states (population < 50 million), not the largest states (UP, Maharashtra, Bihar).
 
 ---
 
 ## 6. Data sources and access plan
 
-For each source:
+**Source 1 — NCRB District-wise IPC Crimes 2001–2012**
+- URL: https://www.kaggle.com/datasets/rajanand/crime-in-india
+- Licence: Government of India Open Data (public domain)
+- Access: Direct CSV download from Kaggle (free account required)
+- File: `01_District_wise_crimes_committed_IPC_2001_2012.csv`
+- Size: ~9,000 rows, 33 columns
 
-- **Name and URL/API endpoint**
-- **Licence or permission to use**
-- **Access method** (direct download, API call, authenticated portal)
-- **A 10-line script or notebook cell** that fetches one row and prints it
+Probe (10-line access check):
+```python
+import pandas as pd
+df = pd.read_csv("data/01_District_wise_crimes_committed_IPC_2001_2012.csv")
+state_totals = df[df["DISTRICT"] == "TOTAL"]
+print(state_totals[["STATE/UT","YEAR","TOTAL IPC CRIMES"]].head(1))
+# Expected output: ANDHRA PRADESH | 2001 | 130089
+```
 
-If any source requires manual scraping, permissions, or a login you do not yet have, flag it here with a mitigation plan.
+Full probe: `uv run artifacts/probes/probe_ncrb.py`
 
-*Write here:*
+No login walls, no scraping, no authentication beyond a free Kaggle account. Data is committed under `data/crime_data.csv` (cleaned version).
 
 ---
 
 ## 7. Scope limits
 
-Bullet list of things you are **not** claiming and **not** responsible for. Examples:
-
-- "We will not estimate a structural causal effect of monetary policy."
-- "We will not harmonise district boundaries across NFHS rounds; analysis is at state level."
-- "We will not ship a mobile version of the app."
-
-This section protects you at grading time. If you clearly say "we are not doing X," you will not be graded on X.
-
-*Write here:*
+- We will not estimate any causal effect of policing policy on crime rates.
+- We will not harmonise district boundaries across years; analysis is at state level only.
+- We will not cover years beyond 2012 (data availability limit of this NCRB file).
+- We will not model socioeconomic drivers of crime (poverty, unemployment, etc.).
+- We will not produce confidence intervals or standard errors — this is a descriptive census of reported crimes, not a sample survey.
+- We will not cover unreported crimes or dark figures.
+- Secondary outcomes (crime type breakdowns, safest states, fastest-growing crime) will be reported in the dashboard but are not the primary graded metric.
 
 ---
 
 ## 8. Risks and fallback
 
-One named failure mode, and the fallback analysis you will run if it materialises. Examples:
+**Risk:** The NCRB 2001–2012 dataset covers only reported IPC crimes. If the instructor determines this time range is too narrow for meaningful trend analysis, we will supplement with the NCRB 2013–2014 files from the same Kaggle dataset (already downloaded) to extend coverage to 2014, and document the join methodology.
 
-- "If the 2022-23 PPAC data is not released by the checkpoint, we will use the FY 2021-22 panel and document the truncation."
-- "If DiD parallel-trends fails visually, we fall back to a state-fixed-effects panel regression with year trends and report both."
-
-One risk is enough. Two is fine. Zero means you have not thought hard enough.
-
-*Write here:*
+**Fallback:** If population data introduces normalisation errors (population estimates are static 2021 Census figures, not year-specific), we will fall back to reporting absolute IPC crime counts alongside per-capita rates and clearly note the limitation in the report.
 
 ---
 
 ## 9. Reproducibility checklist
 
-Your final repo must satisfy all of these:
-
-- [ ] `uv run main.py` runs end-to-end in under 10 minutes on a clean machine with no manual intervention.
-- [ ] It writes `outputs/primary_metric.json` containing a single JSON object with at least `{"metric_name": "...", "value": <number>, "threshold": <number>, "passed": <bool>}`.
-- [ ] It writes `outputs/baseline_metric.json` in the same shape.
-- [ ] A `README.md` documents the commands and expected outputs in ≤ 20 lines.
-- [ ] All data sources are either fetched in-script or committed under `data/` with a licence note.
-
-If you cannot commit to this, your project is probably still too broad. Talk to the instructor before proceeding.
+- [x] `uv run main.py` runs end-to-end in under 10 minutes on a clean machine with no manual intervention.
+- [x] It writes `outputs/primary_metric.json` containing `{"metric_name": "pct_change_total_ipc_crimes_2001_to_2012", "value": 27.48, "threshold": 0, "passed": true}`.
+- [x] It writes `outputs/baseline_metric.json` containing `{"metric_name": "national_avg_crime_rate_per_lakh_2001", "value": 65.63, "threshold": null, "passed": null}`.
+- [x] `README.md` documents the commands and expected outputs in ≤ 20 lines.
+- [x] Data is committed under `data/crime_data.csv` with licence note (Government of India Open Data).
 
 ---
 
 ## Sign-off
 
-By submitting this charter, the team agrees that this is the plan the project will be graded against. The instructor will not penalize you just because the topic turns out to be difficult, as long as the project stays honest and within the approved scope.
+By submitting this charter, the team agrees that this is the plan the project will be graded against.
 
-*Signed:* _(team member names)_
+Signed: Ujjwal Kumar, Piyush Pushpad
