@@ -1,8 +1,13 @@
 {
-  "metric_name": "replace_me_primary",
-  "value": 0.0,
-  "threshold": 0.0,
-  "passed": false,
-  "notes": "Template value. Replace this with your real project metric before the final submission.",
-  "is_template": true
+  "metric_name": "pct_change_total_ipc_crimes_2001_to_2012",
+  "description": "Percentage change in total reported IPC crimes nationwide from 2001 to 2012.",
+  "value": 27.48,
+  "unit": "percent change",
+  "threshold": 0,
+  "passed": true,
+  "period_start": 2001,
+  "period_end": 2012,
+  "rate_per_lakh_2001": 65.63,
+  "rate_per_lakh_2012": 83.58,
+  "data_source": "NCRB District-wise IPC Crimes 2001-2012"
 }
