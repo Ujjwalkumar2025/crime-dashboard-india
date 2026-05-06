@@ -1,15 +1,44 @@
 {
-  "charter_locked": false,
-  "sources": [
+  "project_title": "India Crime Intelligence Dashboard",
+  "course": "ECO6810",
+  "milestone_date": "2026-05-06",
+  "team": [
     {
-      "name": "replace_me_source",
-      "status": "blocked",
-      "probe_artifact": "artifacts/probes/replace_me_probe.md",
-      "note": "Replace this with a real one-row or one-response source probe."
+      "name": "_(your name)_",
+      "handle": "_(github handle)_"
+    },
+    {
+      "name": "_(teammate name)_",
+      "handle": "_(github handle)_"
     }
   ],
-  "baseline_ready": false,
-  "primary_metric_schema_ready": true,
+  "status": {
+    "charter_submitted": true,
+    "data_source_accessible": true,
+    "probe_passing": true,
+    "main_py_runs": true,
+    "baseline_metric_real": true,
+    "primary_metric_shape": true
+  },
   "run_command": "uv run main.py",
-  "template_warning": "This scaffold runs, but it is not submission-ready until you replace the placeholders."
+  "dashboard_command": "uv run streamlit run app.py",
+  "data_source": {
+    "name": "NCRB District-wise IPC Crimes 2001\u20132012",
+    "file": "data/crime_data.csv",
+    "records": 4896,
+    "states": 34,
+    "years": "2001\u20132012"
+  },
+  "outputs_produced": [
+    "outputs/baseline_metric.json",
+    "outputs/primary_metric.json",
+    "outputs/supporting_analysis.json",
+    "outputs/milestone_manifest.json"
+  ],
+  "next_steps": [
+    "Add linear regression crime prediction model",
+    "Complete state-level breakdown charts",
+    "Write full report.md",
+    "Deploy dashboard to Streamlit Cloud"
+  ]
 }
