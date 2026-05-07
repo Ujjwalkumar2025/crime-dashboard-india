@@ -1,0 +1,2321 @@
+State,Year,Crime_Type,Cases_Reported,Population_Millions
+Andhra Pradesh,2015,Murder,1169,54.0
+Andhra Pradesh,2015,Rape,2557,54.0
+Andhra Pradesh,2015,Kidnapping & Abduction,4158,54.0
+Andhra Pradesh,2015,Robbery,1456,54.0
+Andhra Pradesh,2015,Burglary,5073,54.0
+Andhra Pradesh,2015,Theft,16910,54.0
+Andhra Pradesh,2015,Riots,2529,54.0
+Andhra Pradesh,2015,Cybercrime,2696,54.0
+Andhra Pradesh,2015,Drug Cases,4506,54.0
+Andhra Pradesh,2015,Assault,10326,54.0
+Andhra Pradesh,2016,Murder,1061,54.0
+Andhra Pradesh,2016,Rape,2621,54.0
+Andhra Pradesh,2016,Kidnapping & Abduction,4361,54.0
+Andhra Pradesh,2016,Robbery,1318,54.0
+Andhra Pradesh,2016,Burglary,5219,54.0
+Andhra Pradesh,2016,Theft,17407,54.0
+Andhra Pradesh,2016,Riots,2799,54.0
+Andhra Pradesh,2016,Cybercrime,2448,54.0
+Andhra Pradesh,2016,Drug Cases,4370,54.0
+Andhra Pradesh,2016,Assault,9293,54.0
+Andhra Pradesh,2017,Murder,1306,54.0
+Andhra Pradesh,2017,Rape,2089,54.0
+Andhra Pradesh,2017,Kidnapping & Abduction,3791,54.0
+Andhra Pradesh,2017,Robbery,1411,54.0
+Andhra Pradesh,2017,Burglary,5805,54.0
+Andhra Pradesh,2017,Theft,21288,54.0
+Andhra Pradesh,2017,Riots,2759,54.0
+Andhra Pradesh,2017,Cybercrime,2440,54.0
+Andhra Pradesh,2017,Drug Cases,4675,54.0
+Andhra Pradesh,2017,Assault,8733,54.0
+Andhra Pradesh,2018,Murder,1329,54.0
+Andhra Pradesh,2018,Rape,2151,54.0
+Andhra Pradesh,2018,Kidnapping & Abduction,3583,54.0
+Andhra Pradesh,2018,Robbery,1700,54.0
+Andhra Pradesh,2018,Burglary,6834,54.0
+Andhra Pradesh,2018,Theft,21837,54.0
+Andhra Pradesh,2018,Riots,2909,54.0
+Andhra Pradesh,2018,Cybercrime,3525,54.0
+Andhra Pradesh,2018,Drug Cases,4892,54.0
+Andhra Pradesh,2018,Assault,10118,54.0
+Andhra Pradesh,2019,Murder,1163,54.0
+Andhra Pradesh,2019,Rape,2429,54.0
+Andhra Pradesh,2019,Kidnapping & Abduction,3612,54.0
+Andhra Pradesh,2019,Robbery,1714,54.0
+Andhra Pradesh,2019,Burglary,5667,54.0
+Andhra Pradesh,2019,Theft,21358,54.0
+Andhra Pradesh,2019,Riots,2971,54.0
+Andhra Pradesh,2019,Cybercrime,5622,54.0
+Andhra Pradesh,2019,Drug Cases,4790,54.0
+Andhra Pradesh,2019,Assault,9505,54.0
+Andhra Pradesh,2020,Murder,1524,54.0
+Andhra Pradesh,2020,Rape,2682,54.0
+Andhra Pradesh,2020,Kidnapping & Abduction,4840,54.0
+Andhra Pradesh,2020,Robbery,1739,54.0
+Andhra Pradesh,2020,Burglary,6405,54.0
+Andhra Pradesh,2020,Theft,23367,54.0
+Andhra Pradesh,2020,Riots,2811,54.0
+Andhra Pradesh,2020,Cybercrime,6514,54.0
+Andhra Pradesh,2020,Drug Cases,4154,54.0
+Andhra Pradesh,2020,Assault,10131,54.0
+Andhra Pradesh,2021,Murder,1315,54.0
+Andhra Pradesh,2021,Rape,2349,54.0
+Andhra Pradesh,2021,Kidnapping & Abduction,4784,54.0
+Andhra Pradesh,2021,Robbery,1515,54.0
+Andhra Pradesh,2021,Burglary,5919,54.0
+Andhra Pradesh,2021,Theft,21390,54.0
+Andhra Pradesh,2021,Riots,2914,54.0
+Andhra Pradesh,2021,Cybercrime,9541,54.0
+Andhra Pradesh,2021,Drug Cases,4273,54.0
+Andhra Pradesh,2021,Assault,12476,54.0
+Andhra Pradesh,2022,Murder,1498,54.0
+Andhra Pradesh,2022,Rape,2335,54.0
+Andhra Pradesh,2022,Kidnapping & Abduction,3774,54.0
+Andhra Pradesh,2022,Robbery,1764,54.0
+Andhra Pradesh,2022,Burglary,6849,54.0
+Andhra Pradesh,2022,Theft,22973,54.0
+Andhra Pradesh,2022,Riots,3594,54.0
+Andhra Pradesh,2022,Cybercrime,9007,54.0
+Andhra Pradesh,2022,Drug Cases,4774,54.0
+Andhra Pradesh,2022,Assault,9803,54.0
+Arunachal Pradesh,2015,Murder,27,2.0
+Arunachal Pradesh,2015,Rape,48,2.0
+Arunachal Pradesh,2015,Kidnapping & Abduction,75,2.0
+Arunachal Pradesh,2015,Robbery,25,2.0
+Arunachal Pradesh,2015,Burglary,109,2.0
+Arunachal Pradesh,2015,Theft,367,2.0
+Arunachal Pradesh,2015,Riots,64,2.0
+Arunachal Pradesh,2015,Cybercrime,52,2.0
+Arunachal Pradesh,2015,Drug Cases,100,2.0
+Arunachal Pradesh,2015,Assault,198,2.0
+Arunachal Pradesh,2016,Murder,22,2.0
+Arunachal Pradesh,2016,Rape,50,2.0
+Arunachal Pradesh,2016,Kidnapping & Abduction,87,2.0
+Arunachal Pradesh,2016,Robbery,30,2.0
+Arunachal Pradesh,2016,Burglary,128,2.0
+Arunachal Pradesh,2016,Theft,395,2.0
+Arunachal Pradesh,2016,Riots,61,2.0
+Arunachal Pradesh,2016,Cybercrime,48,2.0
+Arunachal Pradesh,2016,Drug Cases,78,2.0
+Arunachal Pradesh,2016,Assault,180,2.0
+Arunachal Pradesh,2017,Murder,22,2.0
+Arunachal Pradesh,2017,Rape,50,2.0
+Arunachal Pradesh,2017,Kidnapping & Abduction,78,2.0
+Arunachal Pradesh,2017,Robbery,30,2.0
+Arunachal Pradesh,2017,Burglary,135,2.0
+Arunachal Pradesh,2017,Theft,373,2.0
+Arunachal Pradesh,2017,Riots,60,2.0
+Arunachal Pradesh,2017,Cybercrime,53,2.0
+Arunachal Pradesh,2017,Drug Cases,85,2.0
+Arunachal Pradesh,2017,Assault,181,2.0
+Arunachal Pradesh,2018,Murder,24,2.0
+Arunachal Pradesh,2018,Rape,44,2.0
+Arunachal Pradesh,2018,Kidnapping & Abduction,95,2.0
+Arunachal Pradesh,2018,Robbery,33,2.0
+Arunachal Pradesh,2018,Burglary,128,2.0
+Arunachal Pradesh,2018,Theft,457,2.0
+Arunachal Pradesh,2018,Riots,69,2.0
+Arunachal Pradesh,2018,Cybercrime,74,2.0
+Arunachal Pradesh,2018,Drug Cases,106,2.0
+Arunachal Pradesh,2018,Assault,214,2.0
+Arunachal Pradesh,2019,Murder,29,2.0
+Arunachal Pradesh,2019,Rape,56,2.0
+Arunachal Pradesh,2019,Kidnapping & Abduction,81,2.0
+Arunachal Pradesh,2019,Robbery,27,2.0
+Arunachal Pradesh,2019,Burglary,115,2.0
+Arunachal Pradesh,2019,Theft,409,2.0
+Arunachal Pradesh,2019,Riots,70,2.0
+Arunachal Pradesh,2019,Cybercrime,127,2.0
+Arunachal Pradesh,2019,Drug Cases,82,2.0
+Arunachal Pradesh,2019,Assault,216,2.0
+Arunachal Pradesh,2020,Murder,26,2.0
+Arunachal Pradesh,2020,Rape,46,2.0
+Arunachal Pradesh,2020,Kidnapping & Abduction,77,2.0
+Arunachal Pradesh,2020,Robbery,30,2.0
+Arunachal Pradesh,2020,Burglary,145,2.0
+Arunachal Pradesh,2020,Theft,404,2.0
+Arunachal Pradesh,2020,Riots,66,2.0
+Arunachal Pradesh,2020,Cybercrime,156,2.0
+Arunachal Pradesh,2020,Drug Cases,94,2.0
+Arunachal Pradesh,2020,Assault,251,2.0
+Arunachal Pradesh,2021,Murder,31,2.0
+Arunachal Pradesh,2021,Rape,48,2.0
+Arunachal Pradesh,2021,Kidnapping & Abduction,89,2.0
+Arunachal Pradesh,2021,Robbery,30,2.0
+Arunachal Pradesh,2021,Burglary,121,2.0
+Arunachal Pradesh,2021,Theft,374,2.0
+Arunachal Pradesh,2021,Riots,69,2.0
+Arunachal Pradesh,2021,Cybercrime,180,2.0
+Arunachal Pradesh,2021,Drug Cases,87,2.0
+Arunachal Pradesh,2021,Assault,209,2.0
+Arunachal Pradesh,2022,Murder,31,2.0
+Arunachal Pradesh,2022,Rape,48,2.0
+Arunachal Pradesh,2022,Kidnapping & Abduction,81,2.0
+Arunachal Pradesh,2022,Robbery,33,2.0
+Arunachal Pradesh,2022,Burglary,152,2.0
+Arunachal Pradesh,2022,Theft,408,2.0
+Arunachal Pradesh,2022,Riots,71,2.0
+Arunachal Pradesh,2022,Cybercrime,229,2.0
+Arunachal Pradesh,2022,Drug Cases,94,2.0
+Arunachal Pradesh,2022,Assault,243,2.0
+Assam,2015,Murder,1037,36.0
+Assam,2015,Rape,2081,36.0
+Assam,2015,Kidnapping & Abduction,3594,36.0
+Assam,2015,Robbery,1270,36.0
+Assam,2015,Burglary,4410,36.0
+Assam,2015,Theft,18447,36.0
+Assam,2015,Riots,2452,36.0
+Assam,2015,Cybercrime,1956,36.0
+Assam,2015,Drug Cases,3352,36.0
+Assam,2015,Assault,8875,36.0
+Assam,2016,Murder,1160,36.0
+Assam,2016,Rape,1746,36.0
+Assam,2016,Kidnapping & Abduction,3537,36.0
+Assam,2016,Robbery,1177,36.0
+Assam,2016,Burglary,5352,36.0
+Assam,2016,Theft,15426,36.0
+Assam,2016,Riots,2795,36.0
+Assam,2016,Cybercrime,2086,36.0
+Assam,2016,Drug Cases,4485,36.0
+Assam,2016,Assault,7854,36.0
+Assam,2017,Murder,1069,36.0
+Assam,2017,Rape,1840,36.0
+Assam,2017,Kidnapping & Abduction,4052,36.0
+Assam,2017,Robbery,1455,36.0
+Assam,2017,Burglary,4849,36.0
+Assam,2017,Theft,18268,36.0
+Assam,2017,Riots,2952,36.0
+Assam,2017,Cybercrime,2195,36.0
+Assam,2017,Drug Cases,4079,36.0
+Assam,2017,Assault,8289,36.0
+Assam,2018,Murder,1005,36.0
+Assam,2018,Rape,2375,36.0
+Assam,2018,Kidnapping & Abduction,4103,36.0
+Assam,2018,Robbery,1385,36.0
+Assam,2018,Burglary,5072,36.0
+Assam,2018,Theft,16963,36.0
+Assam,2018,Riots,2933,36.0
+Assam,2018,Cybercrime,3988,36.0
+Assam,2018,Drug Cases,4599,36.0
+Assam,2018,Assault,9927,36.0
+Assam,2019,Murder,1216,36.0
+Assam,2019,Rape,1892,36.0
+Assam,2019,Kidnapping & Abduction,3353,36.0
+Assam,2019,Robbery,1520,36.0
+Assam,2019,Burglary,5604,36.0
+Assam,2019,Theft,15437,36.0
+Assam,2019,Riots,2464,36.0
+Assam,2019,Cybercrime,5211,36.0
+Assam,2019,Drug Cases,3575,36.0
+Assam,2019,Assault,8381,36.0
+Assam,2020,Murder,1205,36.0
+Assam,2020,Rape,2329,36.0
+Assam,2020,Kidnapping & Abduction,3974,36.0
+Assam,2020,Robbery,1268,36.0
+Assam,2020,Burglary,5883,36.0
+Assam,2020,Theft,16984,36.0
+Assam,2020,Riots,2701,36.0
+Assam,2020,Cybercrime,6843,36.0
+Assam,2020,Drug Cases,4468,36.0
+Assam,2020,Assault,10499,36.0
+Assam,2021,Murder,1266,36.0
+Assam,2021,Rape,2288,36.0
+Assam,2021,Kidnapping & Abduction,3398,36.0
+Assam,2021,Robbery,1352,36.0
+Assam,2021,Burglary,5235,36.0
+Assam,2021,Theft,17331,36.0
+Assam,2021,Riots,3314,36.0
+Assam,2021,Cybercrime,7526,36.0
+Assam,2021,Drug Cases,4866,36.0
+Assam,2021,Assault,10057,36.0
+Assam,2022,Murder,1340,36.0
+Assam,2022,Rape,2284,36.0
+Assam,2022,Kidnapping & Abduction,4030,36.0
+Assam,2022,Robbery,1429,36.0
+Assam,2022,Burglary,5208,36.0
+Assam,2022,Theft,20383,36.0
+Assam,2022,Riots,2760,36.0
+Assam,2022,Cybercrime,7869,36.0
+Assam,2022,Drug Cases,4625,36.0
+Assam,2022,Assault,8895,36.0
+Bihar,2015,Murder,5052,119.0
+Bihar,2015,Rape,9400,119.0
+Bihar,2015,Kidnapping & Abduction,16057,119.0
+Bihar,2015,Robbery,4992,119.0
+Bihar,2015,Burglary,17757,119.0
+Bihar,2015,Theft,78157,119.0
+Bihar,2015,Riots,10479,119.0
+Bihar,2015,Cybercrime,10174,119.0
+Bihar,2015,Drug Cases,18299,119.0
+Bihar,2015,Assault,39480,119.0
+Bihar,2016,Murder,4271,119.0
+Bihar,2016,Rape,8148,119.0
+Bihar,2016,Kidnapping & Abduction,16099,119.0
+Bihar,2016,Robbery,5007,119.0
+Bihar,2016,Burglary,19091,119.0
+Bihar,2016,Theft,71846,119.0
+Bihar,2016,Riots,12353,119.0
+Bihar,2016,Cybercrime,9449,119.0
+Bihar,2016,Drug Cases,16730,119.0
+Bihar,2016,Assault,32013,119.0
+Bihar,2017,Murder,4801,119.0
+Bihar,2017,Rape,9869,119.0
+Bihar,2017,Kidnapping & Abduction,13247,119.0
+Bihar,2017,Robbery,5431,119.0
+Bihar,2017,Burglary,24054,119.0
+Bihar,2017,Theft,77230,119.0
+Bihar,2017,Riots,11796,119.0
+Bihar,2017,Cybercrime,9467,119.0
+Bihar,2017,Drug Cases,16003,119.0
+Bihar,2017,Assault,34828,119.0
+Bihar,2018,Murder,5169,119.0
+Bihar,2018,Rape,9585,119.0
+Bihar,2018,Kidnapping & Abduction,16803,119.0
+Bihar,2018,Robbery,6188,119.0
+Bihar,2018,Burglary,22098,119.0
+Bihar,2018,Theft,73446,119.0
+Bihar,2018,Riots,12368,119.0
+Bihar,2018,Cybercrime,15388,119.0
+Bihar,2018,Drug Cases,18060,119.0
+Bihar,2018,Assault,41200,119.0
+Bihar,2019,Murder,5383,119.0
+Bihar,2019,Rape,8501,119.0
+Bihar,2019,Kidnapping & Abduction,14846,119.0
+Bihar,2019,Robbery,4926,119.0
+Bihar,2019,Burglary,22966,119.0
+Bihar,2019,Theft,64385,119.0
+Bihar,2019,Riots,11447,119.0
+Bihar,2019,Cybercrime,20790,119.0
+Bihar,2019,Drug Cases,16239,119.0
+Bihar,2019,Assault,39606,119.0
+Bihar,2020,Murder,4217,119.0
+Bihar,2020,Rape,7837,119.0
+Bihar,2020,Kidnapping & Abduction,17228,119.0
+Bihar,2020,Robbery,5474,119.0
+Bihar,2020,Burglary,20298,119.0
+Bihar,2020,Theft,76692,119.0
+Bihar,2020,Riots,12735,119.0
+Bihar,2020,Cybercrime,24084,119.0
+Bihar,2020,Drug Cases,18322,119.0
+Bihar,2020,Assault,34384,119.0
+Bihar,2021,Murder,4325,119.0
+Bihar,2021,Rape,9353,119.0
+Bihar,2021,Kidnapping & Abduction,16188,119.0
+Bihar,2021,Robbery,6057,119.0
+Bihar,2021,Burglary,24849,119.0
+Bihar,2021,Theft,88642,119.0
+Bihar,2021,Riots,12053,119.0
+Bihar,2021,Cybercrime,30423,119.0
+Bihar,2021,Drug Cases,19586,119.0
+Bihar,2021,Assault,37235,119.0
+Bihar,2022,Murder,4994,119.0
+Bihar,2022,Rape,8238,119.0
+Bihar,2022,Kidnapping & Abduction,13961,119.0
+Bihar,2022,Robbery,6743,119.0
+Bihar,2022,Burglary,26073,119.0
+Bihar,2022,Theft,83596,119.0
+Bihar,2022,Riots,11875,119.0
+Bihar,2022,Cybercrime,34213,119.0
+Bihar,2022,Drug Cases,16426,119.0
+Bihar,2022,Assault,37648,119.0
+Chhattisgarh,2015,Murder,1029,29.0
+Chhattisgarh,2015,Rape,2002,29.0
+Chhattisgarh,2015,Kidnapping & Abduction,3404,29.0
+Chhattisgarh,2015,Robbery,1103,29.0
+Chhattisgarh,2015,Burglary,5370,29.0
+Chhattisgarh,2015,Theft,16877,29.0
+Chhattisgarh,2015,Riots,2475,29.0
+Chhattisgarh,2015,Cybercrime,2098,29.0
+Chhattisgarh,2015,Drug Cases,3565,29.0
+Chhattisgarh,2015,Assault,7505,29.0
+Chhattisgarh,2016,Murder,990,29.0
+Chhattisgarh,2016,Rape,2067,29.0
+Chhattisgarh,2016,Kidnapping & Abduction,2830,29.0
+Chhattisgarh,2016,Robbery,1066,29.0
+Chhattisgarh,2016,Burglary,4163,29.0
+Chhattisgarh,2016,Theft,13854,29.0
+Chhattisgarh,2016,Riots,2749,29.0
+Chhattisgarh,2016,Cybercrime,2154,29.0
+Chhattisgarh,2016,Drug Cases,3698,29.0
+Chhattisgarh,2016,Assault,7283,29.0
+Chhattisgarh,2017,Murder,1052,29.0
+Chhattisgarh,2017,Rape,1941,29.0
+Chhattisgarh,2017,Kidnapping & Abduction,3046,29.0
+Chhattisgarh,2017,Robbery,1204,29.0
+Chhattisgarh,2017,Burglary,4765,29.0
+Chhattisgarh,2017,Theft,16952,29.0
+Chhattisgarh,2017,Riots,2636,29.0
+Chhattisgarh,2017,Cybercrime,1753,29.0
+Chhattisgarh,2017,Drug Cases,3657,29.0
+Chhattisgarh,2017,Assault,8763,29.0
+Chhattisgarh,2018,Murder,1076,29.0
+Chhattisgarh,2018,Rape,2208,29.0
+Chhattisgarh,2018,Kidnapping & Abduction,3606,29.0
+Chhattisgarh,2018,Robbery,1125,29.0
+Chhattisgarh,2018,Burglary,4364,29.0
+Chhattisgarh,2018,Theft,17411,29.0
+Chhattisgarh,2018,Riots,2215,29.0
+Chhattisgarh,2018,Cybercrime,3435,29.0
+Chhattisgarh,2018,Drug Cases,4384,29.0
+Chhattisgarh,2018,Assault,8802,29.0
+Chhattisgarh,2019,Murder,1059,29.0
+Chhattisgarh,2019,Rape,2119,29.0
+Chhattisgarh,2019,Kidnapping & Abduction,3463,29.0
+Chhattisgarh,2019,Robbery,1293,29.0
+Chhattisgarh,2019,Burglary,5779,29.0
+Chhattisgarh,2019,Theft,16431,29.0
+Chhattisgarh,2019,Riots,2994,29.0
+Chhattisgarh,2019,Cybercrime,5236,29.0
+Chhattisgarh,2019,Drug Cases,3586,29.0
+Chhattisgarh,2019,Assault,7636,29.0
+Chhattisgarh,2020,Murder,982,29.0
+Chhattisgarh,2020,Rape,1770,29.0
+Chhattisgarh,2020,Kidnapping & Abduction,3138,29.0
+Chhattisgarh,2020,Robbery,1370,29.0
+Chhattisgarh,2020,Burglary,4529,29.0
+Chhattisgarh,2020,Theft,16387,29.0
+Chhattisgarh,2020,Riots,2956,29.0
+Chhattisgarh,2020,Cybercrime,5132,29.0
+Chhattisgarh,2020,Drug Cases,4398,29.0
+Chhattisgarh,2020,Assault,8347,29.0
+Chhattisgarh,2021,Murder,1006,29.0
+Chhattisgarh,2021,Rape,2232,29.0
+Chhattisgarh,2021,Kidnapping & Abduction,3778,29.0
+Chhattisgarh,2021,Robbery,1473,29.0
+Chhattisgarh,2021,Burglary,5666,29.0
+Chhattisgarh,2021,Theft,19249,29.0
+Chhattisgarh,2021,Riots,2549,29.0
+Chhattisgarh,2021,Cybercrime,6600,29.0
+Chhattisgarh,2021,Drug Cases,4400,29.0
+Chhattisgarh,2021,Assault,9931,29.0
+Chhattisgarh,2022,Murder,1327,29.0
+Chhattisgarh,2022,Rape,2089,29.0
+Chhattisgarh,2022,Kidnapping & Abduction,3560,29.0
+Chhattisgarh,2022,Robbery,1458,29.0
+Chhattisgarh,2022,Burglary,5130,29.0
+Chhattisgarh,2022,Theft,20278,29.0
+Chhattisgarh,2022,Riots,3075,29.0
+Chhattisgarh,2022,Cybercrime,8443,29.0
+Chhattisgarh,2022,Drug Cases,4479,29.0
+Chhattisgarh,2022,Assault,9963,29.0
+Goa,2015,Murder,26,2.0
+Goa,2015,Rape,62,2.0
+Goa,2015,Kidnapping & Abduction,96,2.0
+Goa,2015,Robbery,38,2.0
+Goa,2015,Burglary,132,2.0
+Goa,2015,Theft,520,2.0
+Goa,2015,Riots,69,2.0
+Goa,2015,Cybercrime,51,2.0
+Goa,2015,Drug Cases,121,2.0
+Goa,2015,Assault,210,2.0
+Goa,2016,Murder,28,2.0
+Goa,2016,Rape,64,2.0
+Goa,2016,Kidnapping & Abduction,111,2.0
+Goa,2016,Robbery,36,2.0
+Goa,2016,Burglary,148,2.0
+Goa,2016,Theft,467,2.0
+Goa,2016,Riots,68,2.0
+Goa,2016,Cybercrime,56,2.0
+Goa,2016,Drug Cases,115,2.0
+Goa,2016,Assault,263,2.0
+Goa,2017,Murder,33,2.0
+Goa,2017,Rape,62,2.0
+Goa,2017,Kidnapping & Abduction,87,2.0
+Goa,2017,Robbery,36,2.0
+Goa,2017,Burglary,125,2.0
+Goa,2017,Theft,491,2.0
+Goa,2017,Riots,73,2.0
+Goa,2017,Cybercrime,66,2.0
+Goa,2017,Drug Cases,107,2.0
+Goa,2017,Assault,220,2.0
+Goa,2018,Murder,28,2.0
+Goa,2018,Rape,63,2.0
+Goa,2018,Kidnapping & Abduction,105,2.0
+Goa,2018,Robbery,32,2.0
+Goa,2018,Burglary,129,2.0
+Goa,2018,Theft,523,2.0
+Goa,2018,Riots,66,2.0
+Goa,2018,Cybercrime,108,2.0
+Goa,2018,Drug Cases,121,2.0
+Goa,2018,Assault,222,2.0
+Goa,2019,Murder,28,2.0
+Goa,2019,Rape,68,2.0
+Goa,2019,Kidnapping & Abduction,99,2.0
+Goa,2019,Robbery,36,2.0
+Goa,2019,Burglary,165,2.0
+Goa,2019,Theft,570,2.0
+Goa,2019,Riots,89,2.0
+Goa,2019,Cybercrime,148,2.0
+Goa,2019,Drug Cases,112,2.0
+Goa,2019,Assault,226,2.0
+Goa,2020,Murder,35,2.0
+Goa,2020,Rape,62,2.0
+Goa,2020,Kidnapping & Abduction,103,2.0
+Goa,2020,Robbery,43,2.0
+Goa,2020,Burglary,135,2.0
+Goa,2020,Theft,511,2.0
+Goa,2020,Riots,67,2.0
+Goa,2020,Cybercrime,175,2.0
+Goa,2020,Drug Cases,102,2.0
+Goa,2020,Assault,233,2.0
+Goa,2021,Murder,29,2.0
+Goa,2021,Rape,65,2.0
+Goa,2021,Kidnapping & Abduction,115,2.0
+Goa,2021,Robbery,40,2.0
+Goa,2021,Burglary,178,2.0
+Goa,2021,Theft,501,2.0
+Goa,2021,Riots,75,2.0
+Goa,2021,Cybercrime,239,2.0
+Goa,2021,Drug Cases,110,2.0
+Goa,2021,Assault,306,2.0
+Goa,2022,Murder,29,2.0
+Goa,2022,Rape,72,2.0
+Goa,2022,Kidnapping & Abduction,94,2.0
+Goa,2022,Robbery,44,2.0
+Goa,2022,Burglary,160,2.0
+Goa,2022,Theft,609,2.0
+Goa,2022,Riots,71,2.0
+Goa,2022,Cybercrime,259,2.0
+Goa,2022,Drug Cases,140,2.0
+Goa,2022,Assault,275,2.0
+Gujarat,2015,Murder,1454,70.0
+Gujarat,2015,Rape,2748,70.0
+Gujarat,2015,Kidnapping & Abduction,4418,70.0
+Gujarat,2015,Robbery,1691,70.0
+Gujarat,2015,Burglary,6683,70.0
+Gujarat,2015,Theft,24342,70.0
+Gujarat,2015,Riots,2901,70.0
+Gujarat,2015,Cybercrime,2616,70.0
+Gujarat,2015,Drug Cases,5721,70.0
+Gujarat,2015,Assault,12511,70.0
+Gujarat,2016,Murder,1409,70.0
+Gujarat,2016,Rape,2742,70.0
+Gujarat,2016,Kidnapping & Abduction,4264,70.0
+Gujarat,2016,Robbery,1506,70.0
+Gujarat,2016,Burglary,6576,70.0
+Gujarat,2016,Theft,21187,70.0
+Gujarat,2016,Riots,3513,70.0
+Gujarat,2016,Cybercrime,2445,70.0
+Gujarat,2016,Drug Cases,5872,70.0
+Gujarat,2016,Assault,13090,70.0
+Gujarat,2017,Murder,1542,70.0
+Gujarat,2017,Rape,2728,70.0
+Gujarat,2017,Kidnapping & Abduction,4392,70.0
+Gujarat,2017,Robbery,1854,70.0
+Gujarat,2017,Burglary,7154,70.0
+Gujarat,2017,Theft,20309,70.0
+Gujarat,2017,Riots,3925,70.0
+Gujarat,2017,Cybercrime,3070,70.0
+Gujarat,2017,Drug Cases,5948,70.0
+Gujarat,2017,Assault,12436,70.0
+Gujarat,2018,Murder,1534,70.0
+Gujarat,2018,Rape,2683,70.0
+Gujarat,2018,Kidnapping & Abduction,5365,70.0
+Gujarat,2018,Robbery,1917,70.0
+Gujarat,2018,Burglary,5966,70.0
+Gujarat,2018,Theft,19759,70.0
+Gujarat,2018,Riots,3429,70.0
+Gujarat,2018,Cybercrime,5050,70.0
+Gujarat,2018,Drug Cases,6123,70.0
+Gujarat,2018,Assault,10626,70.0
+Gujarat,2019,Murder,1554,70.0
+Gujarat,2019,Rape,2703,70.0
+Gujarat,2019,Kidnapping & Abduction,5520,70.0
+Gujarat,2019,Robbery,1940,70.0
+Gujarat,2019,Burglary,7754,70.0
+Gujarat,2019,Theft,23245,70.0
+Gujarat,2019,Riots,3536,70.0
+Gujarat,2019,Cybercrime,6002,70.0
+Gujarat,2019,Drug Cases,4718,70.0
+Gujarat,2019,Assault,13419,70.0
+Gujarat,2020,Murder,1684,70.0
+Gujarat,2020,Rape,3283,70.0
+Gujarat,2020,Kidnapping & Abduction,5662,70.0
+Gujarat,2020,Robbery,1822,70.0
+Gujarat,2020,Burglary,7748,70.0
+Gujarat,2020,Theft,27089,70.0
+Gujarat,2020,Riots,4083,70.0
+Gujarat,2020,Cybercrime,7633,70.0
+Gujarat,2020,Drug Cases,5461,70.0
+Gujarat,2020,Assault,10949,70.0
+Gujarat,2021,Murder,1781,70.0
+Gujarat,2021,Rape,2999,70.0
+Gujarat,2021,Kidnapping & Abduction,4609,70.0
+Gujarat,2021,Robbery,1919,70.0
+Gujarat,2021,Burglary,7559,70.0
+Gujarat,2021,Theft,23299,70.0
+Gujarat,2021,Riots,3326,70.0
+Gujarat,2021,Cybercrime,10598,70.0
+Gujarat,2021,Drug Cases,5679,70.0
+Gujarat,2021,Assault,13568,70.0
+Gujarat,2022,Murder,1605,70.0
+Gujarat,2022,Rape,3271,70.0
+Gujarat,2022,Kidnapping & Abduction,5186,70.0
+Gujarat,2022,Robbery,1891,70.0
+Gujarat,2022,Burglary,8270,70.0
+Gujarat,2022,Theft,24052,70.0
+Gujarat,2022,Riots,3409,70.0
+Gujarat,2022,Cybercrime,10217,70.0
+Gujarat,2022,Drug Cases,6185,70.0
+Gujarat,2022,Assault,13228,70.0
+Haryana,2015,Murder,846,29.0
+Haryana,2015,Rape,1351,29.0
+Haryana,2015,Kidnapping & Abduction,2273,29.0
+Haryana,2015,Robbery,793,29.0
+Haryana,2015,Burglary,3546,29.0
+Haryana,2015,Theft,12711,29.0
+Haryana,2015,Riots,1852,29.0
+Haryana,2015,Cybercrime,1565,29.0
+Haryana,2015,Drug Cases,3219,29.0
+Haryana,2015,Assault,6089,29.0
+Haryana,2016,Murder,816,29.0
+Haryana,2016,Rape,1636,29.0
+Haryana,2016,Kidnapping & Abduction,2522,29.0
+Haryana,2016,Robbery,981,29.0
+Haryana,2016,Burglary,4199,29.0
+Haryana,2016,Theft,14327,29.0
+Haryana,2016,Riots,1745,29.0
+Haryana,2016,Cybercrime,1799,29.0
+Haryana,2016,Drug Cases,2921,29.0
+Haryana,2016,Assault,6035,29.0
+Haryana,2017,Murder,819,29.0
+Haryana,2017,Rape,1759,29.0
+Haryana,2017,Kidnapping & Abduction,2648,29.0
+Haryana,2017,Robbery,915,29.0
+Haryana,2017,Burglary,4016,29.0
+Haryana,2017,Theft,11868,29.0
+Haryana,2017,Riots,1737,29.0
+Haryana,2017,Cybercrime,1417,29.0
+Haryana,2017,Drug Cases,2652,29.0
+Haryana,2017,Assault,5942,29.0
+Haryana,2018,Murder,753,29.0
+Haryana,2018,Rape,1633,29.0
+Haryana,2018,Kidnapping & Abduction,2446,29.0
+Haryana,2018,Robbery,938,29.0
+Haryana,2018,Burglary,4404,29.0
+Haryana,2018,Theft,13017,29.0
+Haryana,2018,Riots,2130,29.0
+Haryana,2018,Cybercrime,2373,29.0
+Haryana,2018,Drug Cases,2762,29.0
+Haryana,2018,Assault,5831,29.0
+Haryana,2019,Murder,775,29.0
+Haryana,2019,Rape,1490,29.0
+Haryana,2019,Kidnapping & Abduction,2489,29.0
+Haryana,2019,Robbery,878,29.0
+Haryana,2019,Burglary,3553,29.0
+Haryana,2019,Theft,13210,29.0
+Haryana,2019,Riots,1885,29.0
+Haryana,2019,Cybercrime,3519,29.0
+Haryana,2019,Drug Cases,3103,29.0
+Haryana,2019,Assault,7283,29.0
+Haryana,2020,Murder,756,29.0
+Haryana,2020,Rape,1772,29.0
+Haryana,2020,Kidnapping & Abduction,2914,29.0
+Haryana,2020,Robbery,892,29.0
+Haryana,2020,Burglary,4542,29.0
+Haryana,2020,Theft,15333,29.0
+Haryana,2020,Riots,1828,29.0
+Haryana,2020,Cybercrime,4390,29.0
+Haryana,2020,Drug Cases,3448,29.0
+Haryana,2020,Assault,7540,29.0
+Haryana,2021,Murder,808,29.0
+Haryana,2021,Rape,1511,29.0
+Haryana,2021,Kidnapping & Abduction,2747,29.0
+Haryana,2021,Robbery,1034,29.0
+Haryana,2021,Burglary,4306,29.0
+Haryana,2021,Theft,13317,29.0
+Haryana,2021,Riots,2119,29.0
+Haryana,2021,Cybercrime,6168,29.0
+Haryana,2021,Drug Cases,2768,29.0
+Haryana,2021,Assault,6614,29.0
+Haryana,2022,Murder,967,29.0
+Haryana,2022,Rape,1885,29.0
+Haryana,2022,Kidnapping & Abduction,2919,29.0
+Haryana,2022,Robbery,1068,29.0
+Haryana,2022,Burglary,3734,29.0
+Haryana,2022,Theft,13887,29.0
+Haryana,2022,Riots,2203,29.0
+Haryana,2022,Cybercrime,6255,29.0
+Haryana,2022,Drug Cases,3046,29.0
+Haryana,2022,Assault,7005,29.0
+Himachal Pradesh,2015,Murder,74,7.0
+Himachal Pradesh,2015,Rape,153,7.0
+Himachal Pradesh,2015,Kidnapping & Abduction,255,7.0
+Himachal Pradesh,2015,Robbery,96,7.0
+Himachal Pradesh,2015,Burglary,360,7.0
+Himachal Pradesh,2015,Theft,1517,7.0
+Himachal Pradesh,2015,Riots,215,7.0
+Himachal Pradesh,2015,Cybercrime,184,7.0
+Himachal Pradesh,2015,Drug Cases,342,7.0
+Himachal Pradesh,2015,Assault,699,7.0
+Himachal Pradesh,2016,Murder,78,7.0
+Himachal Pradesh,2016,Rape,167,7.0
+Himachal Pradesh,2016,Kidnapping & Abduction,293,7.0
+Himachal Pradesh,2016,Robbery,111,7.0
+Himachal Pradesh,2016,Burglary,407,7.0
+Himachal Pradesh,2016,Theft,1230,7.0
+Himachal Pradesh,2016,Riots,200,7.0
+Himachal Pradesh,2016,Cybercrime,167,7.0
+Himachal Pradesh,2016,Drug Cases,335,7.0
+Himachal Pradesh,2016,Assault,729,7.0
+Himachal Pradesh,2017,Murder,87,7.0
+Himachal Pradesh,2017,Rape,193,7.0
+Himachal Pradesh,2017,Kidnapping & Abduction,300,7.0
+Himachal Pradesh,2017,Robbery,97,7.0
+Himachal Pradesh,2017,Burglary,373,7.0
+Himachal Pradesh,2017,Theft,1265,7.0
+Himachal Pradesh,2017,Riots,201,7.0
+Himachal Pradesh,2017,Cybercrime,157,7.0
+Himachal Pradesh,2017,Drug Cases,296,7.0
+Himachal Pradesh,2017,Assault,681,7.0
+Himachal Pradesh,2018,Murder,83,7.0
+Himachal Pradesh,2018,Rape,192,7.0
+Himachal Pradesh,2018,Kidnapping & Abduction,259,7.0
+Himachal Pradesh,2018,Robbery,108,7.0
+Himachal Pradesh,2018,Burglary,420,7.0
+Himachal Pradesh,2018,Theft,1647,7.0
+Himachal Pradesh,2018,Riots,196,7.0
+Himachal Pradesh,2018,Cybercrime,279,7.0
+Himachal Pradesh,2018,Drug Cases,380,7.0
+Himachal Pradesh,2018,Assault,823,7.0
+Himachal Pradesh,2019,Murder,103,7.0
+Himachal Pradesh,2019,Rape,162,7.0
+Himachal Pradesh,2019,Kidnapping & Abduction,272,7.0
+Himachal Pradesh,2019,Robbery,115,7.0
+Himachal Pradesh,2019,Burglary,496,7.0
+Himachal Pradesh,2019,Theft,1491,7.0
+Himachal Pradesh,2019,Riots,231,7.0
+Himachal Pradesh,2019,Cybercrime,375,7.0
+Himachal Pradesh,2019,Drug Cases,367,7.0
+Himachal Pradesh,2019,Assault,685,7.0
+Himachal Pradesh,2020,Murder,91,7.0
+Himachal Pradesh,2020,Rape,174,7.0
+Himachal Pradesh,2020,Kidnapping & Abduction,308,7.0
+Himachal Pradesh,2020,Robbery,103,7.0
+Himachal Pradesh,2020,Burglary,396,7.0
+Himachal Pradesh,2020,Theft,1543,7.0
+Himachal Pradesh,2020,Riots,216,7.0
+Himachal Pradesh,2020,Cybercrime,528,7.0
+Himachal Pradesh,2020,Drug Cases,310,7.0
+Himachal Pradesh,2020,Assault,765,7.0
+Himachal Pradesh,2021,Murder,98,7.0
+Himachal Pradesh,2021,Rape,157,7.0
+Himachal Pradesh,2021,Kidnapping & Abduction,298,7.0
+Himachal Pradesh,2021,Robbery,101,7.0
+Himachal Pradesh,2021,Burglary,396,7.0
+Himachal Pradesh,2021,Theft,1744,7.0
+Himachal Pradesh,2021,Riots,222,7.0
+Himachal Pradesh,2021,Cybercrime,688,7.0
+Himachal Pradesh,2021,Drug Cases,326,7.0
+Himachal Pradesh,2021,Assault,826,7.0
+Himachal Pradesh,2022,Murder,107,7.0
+Himachal Pradesh,2022,Rape,190,7.0
+Himachal Pradesh,2022,Kidnapping & Abduction,316,7.0
+Himachal Pradesh,2022,Robbery,113,7.0
+Himachal Pradesh,2022,Burglary,443,7.0
+Himachal Pradesh,2022,Theft,1747,7.0
+Himachal Pradesh,2022,Riots,263,7.0
+Himachal Pradesh,2022,Cybercrime,847,7.0
+Himachal Pradesh,2022,Drug Cases,318,7.0
+Himachal Pradesh,2022,Assault,853,7.0
+Jharkhand,2015,Murder,1397,38.0
+Jharkhand,2015,Rape,2070,38.0
+Jharkhand,2015,Kidnapping & Abduction,3438,38.0
+Jharkhand,2015,Robbery,1541,38.0
+Jharkhand,2015,Burglary,5878,38.0
+Jharkhand,2015,Theft,21132,38.0
+Jharkhand,2015,Riots,2643,38.0
+Jharkhand,2015,Cybercrime,2688,38.0
+Jharkhand,2015,Drug Cases,4048,38.0
+Jharkhand,2015,Assault,8883,38.0
+Jharkhand,2016,Murder,1132,38.0
+Jharkhand,2016,Rape,2555,38.0
+Jharkhand,2016,Kidnapping & Abduction,4230,38.0
+Jharkhand,2016,Robbery,1476,38.0
+Jharkhand,2016,Burglary,5616,38.0
+Jharkhand,2016,Theft,21762,38.0
+Jharkhand,2016,Riots,2925,38.0
+Jharkhand,2016,Cybercrime,2704,38.0
+Jharkhand,2016,Drug Cases,4452,38.0
+Jharkhand,2016,Assault,9705,38.0
+Jharkhand,2017,Murder,1270,38.0
+Jharkhand,2017,Rape,2239,38.0
+Jharkhand,2017,Kidnapping & Abduction,4415,38.0
+Jharkhand,2017,Robbery,1496,38.0
+Jharkhand,2017,Burglary,5499,38.0
+Jharkhand,2017,Theft,22323,38.0
+Jharkhand,2017,Riots,2975,38.0
+Jharkhand,2017,Cybercrime,2502,38.0
+Jharkhand,2017,Drug Cases,5187,38.0
+Jharkhand,2017,Assault,10658,38.0
+Jharkhand,2018,Murder,1158,38.0
+Jharkhand,2018,Rape,2747,38.0
+Jharkhand,2018,Kidnapping & Abduction,4349,38.0
+Jharkhand,2018,Robbery,1448,38.0
+Jharkhand,2018,Burglary,5435,38.0
+Jharkhand,2018,Theft,22109,38.0
+Jharkhand,2018,Riots,3255,38.0
+Jharkhand,2018,Cybercrime,4116,38.0
+Jharkhand,2018,Drug Cases,5269,38.0
+Jharkhand,2018,Assault,11379,38.0
+Jharkhand,2019,Murder,1194,38.0
+Jharkhand,2019,Rape,2333,38.0
+Jharkhand,2019,Kidnapping & Abduction,3946,38.0
+Jharkhand,2019,Robbery,1666,38.0
+Jharkhand,2019,Burglary,5341,38.0
+Jharkhand,2019,Theft,21134,38.0
+Jharkhand,2019,Riots,3453,38.0
+Jharkhand,2019,Cybercrime,6323,38.0
+Jharkhand,2019,Drug Cases,4574,38.0
+Jharkhand,2019,Assault,11698,38.0
+Jharkhand,2020,Murder,1199,38.0
+Jharkhand,2020,Rape,2780,38.0
+Jharkhand,2020,Kidnapping & Abduction,3861,38.0
+Jharkhand,2020,Robbery,1532,38.0
+Jharkhand,2020,Burglary,6889,38.0
+Jharkhand,2020,Theft,18869,38.0
+Jharkhand,2020,Riots,2995,38.0
+Jharkhand,2020,Cybercrime,7772,38.0
+Jharkhand,2020,Drug Cases,5213,38.0
+Jharkhand,2020,Assault,11328,38.0
+Jharkhand,2021,Murder,1463,38.0
+Jharkhand,2021,Rape,2597,38.0
+Jharkhand,2021,Kidnapping & Abduction,4096,38.0
+Jharkhand,2021,Robbery,1535,38.0
+Jharkhand,2021,Burglary,5825,38.0
+Jharkhand,2021,Theft,24097,38.0
+Jharkhand,2021,Riots,3402,38.0
+Jharkhand,2021,Cybercrime,8627,38.0
+Jharkhand,2021,Drug Cases,4922,38.0
+Jharkhand,2021,Assault,12550,38.0
+Jharkhand,2022,Murder,1261,38.0
+Jharkhand,2022,Rape,2677,38.0
+Jharkhand,2022,Kidnapping & Abduction,4513,38.0
+Jharkhand,2022,Robbery,1693,38.0
+Jharkhand,2022,Burglary,5607,38.0
+Jharkhand,2022,Theft,24289,38.0
+Jharkhand,2022,Riots,3816,38.0
+Jharkhand,2022,Cybercrime,10702,38.0
+Jharkhand,2022,Drug Cases,5367,38.0
+Jharkhand,2022,Assault,12690,38.0
+Karnataka,2015,Murder,1625,68.0
+Karnataka,2015,Rape,2540,68.0
+Karnataka,2015,Kidnapping & Abduction,5008,68.0
+Karnataka,2015,Robbery,1837,68.0
+Karnataka,2015,Burglary,6961,68.0
+Karnataka,2015,Theft,25429,68.0
+Karnataka,2015,Riots,4150,68.0
+Karnataka,2015,Cybercrime,3450,68.0
+Karnataka,2015,Drug Cases,5426,68.0
+Karnataka,2015,Assault,10819,68.0
+Karnataka,2016,Murder,1787,68.0
+Karnataka,2016,Rape,3187,68.0
+Karnataka,2016,Kidnapping & Abduction,4431,68.0
+Karnataka,2016,Robbery,2045,68.0
+Karnataka,2016,Burglary,8072,68.0
+Karnataka,2016,Theft,24357,68.0
+Karnataka,2016,Riots,3848,68.0
+Karnataka,2016,Cybercrime,2967,68.0
+Karnataka,2016,Drug Cases,4867,68.0
+Karnataka,2016,Assault,11867,68.0
+Karnataka,2017,Murder,1735,68.0
+Karnataka,2017,Rape,2511,68.0
+Karnataka,2017,Kidnapping & Abduction,4837,68.0
+Karnataka,2017,Robbery,1795,68.0
+Karnataka,2017,Burglary,7491,68.0
+Karnataka,2017,Theft,27805,68.0
+Karnataka,2017,Riots,3642,68.0
+Karnataka,2017,Cybercrime,2919,68.0
+Karnataka,2017,Drug Cases,6136,68.0
+Karnataka,2017,Assault,12547,68.0
+Karnataka,2018,Murder,1487,68.0
+Karnataka,2018,Rape,2963,68.0
+Karnataka,2018,Kidnapping & Abduction,4630,68.0
+Karnataka,2018,Robbery,1704,68.0
+Karnataka,2018,Burglary,7547,68.0
+Karnataka,2018,Theft,24558,68.0
+Karnataka,2018,Riots,4376,68.0
+Karnataka,2018,Cybercrime,4840,68.0
+Karnataka,2018,Drug Cases,5979,68.0
+Karnataka,2018,Assault,13489,68.0
+Karnataka,2019,Murder,1411,68.0
+Karnataka,2019,Rape,3213,68.0
+Karnataka,2019,Kidnapping & Abduction,4776,68.0
+Karnataka,2019,Robbery,2189,68.0
+Karnataka,2019,Burglary,6882,68.0
+Karnataka,2019,Theft,24988,68.0
+Karnataka,2019,Riots,3472,68.0
+Karnataka,2019,Cybercrime,8087,68.0
+Karnataka,2019,Drug Cases,5952,68.0
+Karnataka,2019,Assault,13597,68.0
+Karnataka,2020,Murder,1464,68.0
+Karnataka,2020,Rape,3354,68.0
+Karnataka,2020,Kidnapping & Abduction,4916,68.0
+Karnataka,2020,Robbery,2192,68.0
+Karnataka,2020,Burglary,7142,68.0
+Karnataka,2020,Theft,23696,68.0
+Karnataka,2020,Riots,3477,68.0
+Karnataka,2020,Cybercrime,8951,68.0
+Karnataka,2020,Drug Cases,6176,68.0
+Karnataka,2020,Assault,11709,68.0
+Karnataka,2021,Murder,1855,68.0
+Karnataka,2021,Rape,3132,68.0
+Karnataka,2021,Kidnapping & Abduction,5523,68.0
+Karnataka,2021,Robbery,1959,68.0
+Karnataka,2021,Burglary,7740,68.0
+Karnataka,2021,Theft,27070,68.0
+Karnataka,2021,Riots,3687,68.0
+Karnataka,2021,Cybercrime,9964,68.0
+Karnataka,2021,Drug Cases,6838,68.0
+Karnataka,2021,Assault,15543,68.0
+Karnataka,2022,Murder,1677,68.0
+Karnataka,2022,Rape,3011,68.0
+Karnataka,2022,Kidnapping & Abduction,5822,68.0
+Karnataka,2022,Robbery,1974,68.0
+Karnataka,2022,Burglary,6964,68.0
+Karnataka,2022,Theft,24277,68.0
+Karnataka,2022,Riots,4457,68.0
+Karnataka,2022,Cybercrime,13625,68.0
+Karnataka,2022,Drug Cases,5388,68.0
+Karnataka,2022,Assault,12789,68.0
+Kerala,2015,Murder,496,36.0
+Kerala,2015,Rape,1052,36.0
+Kerala,2015,Kidnapping & Abduction,1479,36.0
+Kerala,2015,Robbery,553,36.0
+Kerala,2015,Burglary,2740,36.0
+Kerala,2015,Theft,7572,36.0
+Kerala,2015,Riots,1355,36.0
+Kerala,2015,Cybercrime,995,36.0
+Kerala,2015,Drug Cases,1710,36.0
+Kerala,2015,Assault,3987,36.0
+Kerala,2016,Murder,587,36.0
+Kerala,2016,Rape,1130,36.0
+Kerala,2016,Kidnapping & Abduction,1937,36.0
+Kerala,2016,Robbery,621,36.0
+Kerala,2016,Burglary,2693,36.0
+Kerala,2016,Theft,7791,36.0
+Kerala,2016,Riots,1239,36.0
+Kerala,2016,Cybercrime,1208,36.0
+Kerala,2016,Drug Cases,1693,36.0
+Kerala,2016,Assault,3858,36.0
+Kerala,2017,Murder,512,36.0
+Kerala,2017,Rape,893,36.0
+Kerala,2017,Kidnapping & Abduction,1625,36.0
+Kerala,2017,Robbery,669,36.0
+Kerala,2017,Burglary,2553,36.0
+Kerala,2017,Theft,9742,36.0
+Kerala,2017,Riots,1476,36.0
+Kerala,2017,Cybercrime,1028,36.0
+Kerala,2017,Drug Cases,1875,36.0
+Kerala,2017,Assault,4330,36.0
+Kerala,2018,Murder,587,36.0
+Kerala,2018,Rape,987,36.0
+Kerala,2018,Kidnapping & Abduction,1899,36.0
+Kerala,2018,Robbery,648,36.0
+Kerala,2018,Burglary,2706,36.0
+Kerala,2018,Theft,8713,36.0
+Kerala,2018,Riots,1289,36.0
+Kerala,2018,Cybercrime,2021,36.0
+Kerala,2018,Drug Cases,2223,36.0
+Kerala,2018,Assault,4084,36.0
+Kerala,2019,Murder,647,36.0
+Kerala,2019,Rape,1077,36.0
+Kerala,2019,Kidnapping & Abduction,2087,36.0
+Kerala,2019,Robbery,739,36.0
+Kerala,2019,Burglary,2654,36.0
+Kerala,2019,Theft,7754,36.0
+Kerala,2019,Riots,1302,36.0
+Kerala,2019,Cybercrime,2515,36.0
+Kerala,2019,Drug Cases,2183,36.0
+Kerala,2019,Assault,4326,36.0
+Kerala,2020,Murder,529,36.0
+Kerala,2020,Rape,1211,36.0
+Kerala,2020,Kidnapping & Abduction,2177,36.0
+Kerala,2020,Robbery,696,36.0
+Kerala,2020,Burglary,2493,36.0
+Kerala,2020,Theft,8589,36.0
+Kerala,2020,Riots,1219,36.0
+Kerala,2020,Cybercrime,3581,36.0
+Kerala,2020,Drug Cases,1893,36.0
+Kerala,2020,Assault,4861,36.0
+Kerala,2021,Murder,563,36.0
+Kerala,2021,Rape,1139,36.0
+Kerala,2021,Kidnapping & Abduction,2023,36.0
+Kerala,2021,Robbery,773,36.0
+Kerala,2021,Burglary,2567,36.0
+Kerala,2021,Theft,8009,36.0
+Kerala,2021,Riots,1293,36.0
+Kerala,2021,Cybercrime,4354,36.0
+Kerala,2021,Drug Cases,2421,36.0
+Kerala,2021,Assault,4979,36.0
+Kerala,2022,Murder,634,36.0
+Kerala,2022,Rape,1197,36.0
+Kerala,2022,Kidnapping & Abduction,1778,36.0
+Kerala,2022,Robbery,805,36.0
+Kerala,2022,Burglary,2796,36.0
+Kerala,2022,Theft,9219,36.0
+Kerala,2022,Riots,1485,36.0
+Kerala,2022,Cybercrime,3966,36.0
+Kerala,2022,Drug Cases,1994,36.0
+Kerala,2022,Assault,5276,36.0
+Madhya Pradesh,2015,Murder,2974,85.0
+Madhya Pradesh,2015,Rape,6498,85.0
+Madhya Pradesh,2015,Kidnapping & Abduction,10048,85.0
+Madhya Pradesh,2015,Robbery,3826,85.0
+Madhya Pradesh,2015,Burglary,14826,85.0
+Madhya Pradesh,2015,Theft,50483,85.0
+Madhya Pradesh,2015,Riots,8696,85.0
+Madhya Pradesh,2015,Cybercrime,6386,85.0
+Madhya Pradesh,2015,Drug Cases,12483,85.0
+Madhya Pradesh,2015,Assault,27004,85.0
+Madhya Pradesh,2016,Murder,3638,85.0
+Madhya Pradesh,2016,Rape,7272,85.0
+Madhya Pradesh,2016,Kidnapping & Abduction,11871,85.0
+Madhya Pradesh,2016,Robbery,3691,85.0
+Madhya Pradesh,2016,Burglary,13876,85.0
+Madhya Pradesh,2016,Theft,49984,85.0
+Madhya Pradesh,2016,Riots,8560,85.0
+Madhya Pradesh,2016,Cybercrime,5884,85.0
+Madhya Pradesh,2016,Drug Cases,12471,85.0
+Madhya Pradesh,2016,Assault,28550,85.0
+Madhya Pradesh,2017,Murder,3360,85.0
+Madhya Pradesh,2017,Rape,7088,85.0
+Madhya Pradesh,2017,Kidnapping & Abduction,9979,85.0
+Madhya Pradesh,2017,Robbery,3591,85.0
+Madhya Pradesh,2017,Burglary,17590,85.0
+Madhya Pradesh,2017,Theft,54804,85.0
+Madhya Pradesh,2017,Riots,8966,85.0
+Madhya Pradesh,2017,Cybercrime,6667,85.0
+Madhya Pradesh,2017,Drug Cases,11761,85.0
+Madhya Pradesh,2017,Assault,30996,85.0
+Madhya Pradesh,2018,Murder,3927,85.0
+Madhya Pradesh,2018,Rape,7072,85.0
+Madhya Pradesh,2018,Kidnapping & Abduction,10744,85.0
+Madhya Pradesh,2018,Robbery,4308,85.0
+Madhya Pradesh,2018,Burglary,16080,85.0
+Madhya Pradesh,2018,Theft,49080,85.0
+Madhya Pradesh,2018,Riots,9732,85.0
+Madhya Pradesh,2018,Cybercrime,9997,85.0
+Madhya Pradesh,2018,Drug Cases,14726,85.0
+Madhya Pradesh,2018,Assault,28364,85.0
+Madhya Pradesh,2019,Murder,3325,85.0
+Madhya Pradesh,2019,Rape,6893,85.0
+Madhya Pradesh,2019,Kidnapping & Abduction,13065,85.0
+Madhya Pradesh,2019,Robbery,4571,85.0
+Madhya Pradesh,2019,Burglary,18669,85.0
+Madhya Pradesh,2019,Theft,59704,85.0
+Madhya Pradesh,2019,Riots,9321,85.0
+Madhya Pradesh,2019,Cybercrime,17278,85.0
+Madhya Pradesh,2019,Drug Cases,12226,85.0
+Madhya Pradesh,2019,Assault,29282,85.0
+Madhya Pradesh,2020,Murder,3427,85.0
+Madhya Pradesh,2020,Rape,7948,85.0
+Madhya Pradesh,2020,Kidnapping & Abduction,13562,85.0
+Madhya Pradesh,2020,Robbery,3751,85.0
+Madhya Pradesh,2020,Burglary,18487,85.0
+Madhya Pradesh,2020,Theft,65449,85.0
+Madhya Pradesh,2020,Riots,8115,85.0
+Madhya Pradesh,2020,Cybercrime,20468,85.0
+Madhya Pradesh,2020,Drug Cases,15142,85.0
+Madhya Pradesh,2020,Assault,25736,85.0
+Madhya Pradesh,2021,Murder,4033,85.0
+Madhya Pradesh,2021,Rape,6630,85.0
+Madhya Pradesh,2021,Kidnapping & Abduction,13737,85.0
+Madhya Pradesh,2021,Robbery,5058,85.0
+Madhya Pradesh,2021,Burglary,20093,85.0
+Madhya Pradesh,2021,Theft,58642,85.0
+Madhya Pradesh,2021,Riots,10131,85.0
+Madhya Pradesh,2021,Cybercrime,27010,85.0
+Madhya Pradesh,2021,Drug Cases,12964,85.0
+Madhya Pradesh,2021,Assault,33470,85.0
+Madhya Pradesh,2022,Murder,3337,85.0
+Madhya Pradesh,2022,Rape,7393,85.0
+Madhya Pradesh,2022,Kidnapping & Abduction,11398,85.0
+Madhya Pradesh,2022,Robbery,3998,85.0
+Madhya Pradesh,2022,Burglary,15756,85.0
+Madhya Pradesh,2022,Theft,63697,85.0
+Madhya Pradesh,2022,Riots,8855,85.0
+Madhya Pradesh,2022,Cybercrime,30848,85.0
+Madhya Pradesh,2022,Drug Cases,12134,85.0
+Madhya Pradesh,2022,Assault,29289,85.0
+Maharashtra,2015,Murder,3824,126.0
+Maharashtra,2015,Rape,7619,126.0
+Maharashtra,2015,Kidnapping & Abduction,11438,126.0
+Maharashtra,2015,Robbery,4566,126.0
+Maharashtra,2015,Burglary,19637,126.0
+Maharashtra,2015,Theft,60704,126.0
+Maharashtra,2015,Riots,8345,126.0
+Maharashtra,2015,Cybercrime,6481,126.0
+Maharashtra,2015,Drug Cases,15118,126.0
+Maharashtra,2015,Assault,25896,126.0
+Maharashtra,2016,Murder,4289,126.0
+Maharashtra,2016,Rape,7210,126.0
+Maharashtra,2016,Kidnapping & Abduction,13963,126.0
+Maharashtra,2016,Robbery,4890,126.0
+Maharashtra,2016,Burglary,20633,126.0
+Maharashtra,2016,Theft,57158,126.0
+Maharashtra,2016,Riots,9995,126.0
+Maharashtra,2016,Cybercrime,7337,126.0
+Maharashtra,2016,Drug Cases,13796,126.0
+Maharashtra,2016,Assault,32024,126.0
+Maharashtra,2017,Murder,4371,126.0
+Maharashtra,2017,Rape,8346,126.0
+Maharashtra,2017,Kidnapping & Abduction,13592,126.0
+Maharashtra,2017,Robbery,4463,126.0
+Maharashtra,2017,Burglary,17871,126.0
+Maharashtra,2017,Theft,65360,126.0
+Maharashtra,2017,Riots,8695,126.0
+Maharashtra,2017,Cybercrime,6676,126.0
+Maharashtra,2017,Drug Cases,13535,126.0
+Maharashtra,2017,Assault,29442,126.0
+Maharashtra,2018,Murder,3761,126.0
+Maharashtra,2018,Rape,6834,126.0
+Maharashtra,2018,Kidnapping & Abduction,11060,126.0
+Maharashtra,2018,Robbery,3989,126.0
+Maharashtra,2018,Burglary,21385,126.0
+Maharashtra,2018,Theft,60838,126.0
+Maharashtra,2018,Riots,9282,126.0
+Maharashtra,2018,Cybercrime,13146,126.0
+Maharashtra,2018,Drug Cases,13205,126.0
+Maharashtra,2018,Assault,36381,126.0
+Maharashtra,2019,Murder,4433,126.0
+Maharashtra,2019,Rape,6636,126.0
+Maharashtra,2019,Kidnapping & Abduction,12740,126.0
+Maharashtra,2019,Robbery,5292,126.0
+Maharashtra,2019,Burglary,21543,126.0
+Maharashtra,2019,Theft,62739,126.0
+Maharashtra,2019,Riots,10131,126.0
+Maharashtra,2019,Cybercrime,15651,126.0
+Maharashtra,2019,Drug Cases,16862,126.0
+Maharashtra,2019,Assault,30030,126.0
+Maharashtra,2020,Murder,4710,126.0
+Maharashtra,2020,Rape,8055,126.0
+Maharashtra,2020,Kidnapping & Abduction,13735,126.0
+Maharashtra,2020,Robbery,4858,126.0
+Maharashtra,2020,Burglary,17795,126.0
+Maharashtra,2020,Theft,58269,126.0
+Maharashtra,2020,Riots,9142,126.0
+Maharashtra,2020,Cybercrime,20204,126.0
+Maharashtra,2020,Drug Cases,16224,126.0
+Maharashtra,2020,Assault,31768,126.0
+Maharashtra,2021,Murder,3672,126.0
+Maharashtra,2021,Rape,8953,126.0
+Maharashtra,2021,Kidnapping & Abduction,15107,126.0
+Maharashtra,2021,Robbery,5560,126.0
+Maharashtra,2021,Burglary,22638,126.0
+Maharashtra,2021,Theft,59277,126.0
+Maharashtra,2021,Riots,9844,126.0
+Maharashtra,2021,Cybercrime,29324,126.0
+Maharashtra,2021,Drug Cases,16137,126.0
+Maharashtra,2021,Assault,30352,126.0
+Maharashtra,2022,Murder,4717,126.0
+Maharashtra,2022,Rape,7328,126.0
+Maharashtra,2022,Kidnapping & Abduction,12646,126.0
+Maharashtra,2022,Robbery,5071,126.0
+Maharashtra,2022,Burglary,20623,126.0
+Maharashtra,2022,Theft,68485,126.0
+Maharashtra,2022,Riots,9074,126.0
+Maharashtra,2022,Cybercrime,35768,126.0
+Maharashtra,2022,Drug Cases,14422,126.0
+Maharashtra,2022,Assault,30642,126.0
+Manipur,2015,Murder,58,3.0
+Manipur,2015,Rape,110,3.0
+Manipur,2015,Kidnapping & Abduction,186,3.0
+Manipur,2015,Robbery,66,3.0
+Manipur,2015,Burglary,255,3.0
+Manipur,2015,Theft,827,3.0
+Manipur,2015,Riots,110,3.0
+Manipur,2015,Cybercrime,102,3.0
+Manipur,2015,Drug Cases,181,3.0
+Manipur,2015,Assault,389,3.0
+Manipur,2016,Murder,57,3.0
+Manipur,2016,Rape,99,3.0
+Manipur,2016,Kidnapping & Abduction,149,3.0
+Manipur,2016,Robbery,57,3.0
+Manipur,2016,Burglary,263,3.0
+Manipur,2016,Theft,725,3.0
+Manipur,2016,Riots,142,3.0
+Manipur,2016,Cybercrime,104,3.0
+Manipur,2016,Drug Cases,191,3.0
+Manipur,2016,Assault,440,3.0
+Manipur,2017,Murder,59,3.0
+Manipur,2017,Rape,96,3.0
+Manipur,2017,Kidnapping & Abduction,184,3.0
+Manipur,2017,Robbery,64,3.0
+Manipur,2017,Burglary,236,3.0
+Manipur,2017,Theft,943,3.0
+Manipur,2017,Riots,142,3.0
+Manipur,2017,Cybercrime,109,3.0
+Manipur,2017,Drug Cases,217,3.0
+Manipur,2017,Assault,484,3.0
+Manipur,2018,Murder,59,3.0
+Manipur,2018,Rape,113,3.0
+Manipur,2018,Kidnapping & Abduction,188,3.0
+Manipur,2018,Robbery,68,3.0
+Manipur,2018,Burglary,268,3.0
+Manipur,2018,Theft,929,3.0
+Manipur,2018,Riots,119,3.0
+Manipur,2018,Cybercrime,193,3.0
+Manipur,2018,Drug Cases,222,3.0
+Manipur,2018,Assault,382,3.0
+Manipur,2019,Murder,62,3.0
+Manipur,2019,Rape,93,3.0
+Manipur,2019,Kidnapping & Abduction,172,3.0
+Manipur,2019,Robbery,70,3.0
+Manipur,2019,Burglary,237,3.0
+Manipur,2019,Theft,963,3.0
+Manipur,2019,Riots,149,3.0
+Manipur,2019,Cybercrime,242,3.0
+Manipur,2019,Drug Cases,173,3.0
+Manipur,2019,Assault,424,3.0
+Manipur,2020,Murder,59,3.0
+Manipur,2020,Rape,122,3.0
+Manipur,2020,Kidnapping & Abduction,192,3.0
+Manipur,2020,Robbery,62,3.0
+Manipur,2020,Burglary,279,3.0
+Manipur,2020,Theft,907,3.0
+Manipur,2020,Riots,150,3.0
+Manipur,2020,Cybercrime,273,3.0
+Manipur,2020,Drug Cases,224,3.0
+Manipur,2020,Assault,467,3.0
+Manipur,2021,Murder,66,3.0
+Manipur,2021,Rape,103,3.0
+Manipur,2021,Kidnapping & Abduction,195,3.0
+Manipur,2021,Robbery,77,3.0
+Manipur,2021,Burglary,241,3.0
+Manipur,2021,Theft,1032,3.0
+Manipur,2021,Riots,149,3.0
+Manipur,2021,Cybercrime,328,3.0
+Manipur,2021,Drug Cases,199,3.0
+Manipur,2021,Assault,499,3.0
+Manipur,2022,Murder,52,3.0
+Manipur,2022,Rape,113,3.0
+Manipur,2022,Kidnapping & Abduction,182,3.0
+Manipur,2022,Robbery,72,3.0
+Manipur,2022,Burglary,240,3.0
+Manipur,2022,Theft,1032,3.0
+Manipur,2022,Riots,164,3.0
+Manipur,2022,Cybercrime,509,3.0
+Manipur,2022,Drug Cases,231,3.0
+Manipur,2022,Assault,425,3.0
+Meghalaya,2015,Murder,48,3.0
+Meghalaya,2015,Rape,71,3.0
+Meghalaya,2015,Kidnapping & Abduction,123,3.0
+Meghalaya,2015,Robbery,49,3.0
+Meghalaya,2015,Burglary,208,3.0
+Meghalaya,2015,Theft,755,3.0
+Meghalaya,2015,Riots,113,3.0
+Meghalaya,2015,Cybercrime,88,3.0
+Meghalaya,2015,Drug Cases,150,3.0
+Meghalaya,2015,Assault,413,3.0
+Meghalaya,2016,Murder,44,3.0
+Meghalaya,2016,Rape,83,3.0
+Meghalaya,2016,Kidnapping & Abduction,132,3.0
+Meghalaya,2016,Robbery,58,3.0
+Meghalaya,2016,Burglary,226,3.0
+Meghalaya,2016,Theft,652,3.0
+Meghalaya,2016,Riots,96,3.0
+Meghalaya,2016,Cybercrime,94,3.0
+Meghalaya,2016,Drug Cases,172,3.0
+Meghalaya,2016,Assault,342,3.0
+Meghalaya,2017,Murder,53,3.0
+Meghalaya,2017,Rape,77,3.0
+Meghalaya,2017,Kidnapping & Abduction,146,3.0
+Meghalaya,2017,Robbery,61,3.0
+Meghalaya,2017,Burglary,212,3.0
+Meghalaya,2017,Theft,756,3.0
+Meghalaya,2017,Riots,108,3.0
+Meghalaya,2017,Cybercrime,83,3.0
+Meghalaya,2017,Drug Cases,192,3.0
+Meghalaya,2017,Assault,364,3.0
+Meghalaya,2018,Murder,53,3.0
+Meghalaya,2018,Rape,81,3.0
+Meghalaya,2018,Kidnapping & Abduction,139,3.0
+Meghalaya,2018,Robbery,47,3.0
+Meghalaya,2018,Burglary,232,3.0
+Meghalaya,2018,Theft,711,3.0
+Meghalaya,2018,Riots,126,3.0
+Meghalaya,2018,Cybercrime,147,3.0
+Meghalaya,2018,Drug Cases,195,3.0
+Meghalaya,2018,Assault,345,3.0
+Meghalaya,2019,Murder,53,3.0
+Meghalaya,2019,Rape,97,3.0
+Meghalaya,2019,Kidnapping & Abduction,168,3.0
+Meghalaya,2019,Robbery,62,3.0
+Meghalaya,2019,Burglary,244,3.0
+Meghalaya,2019,Theft,782,3.0
+Meghalaya,2019,Riots,103,3.0
+Meghalaya,2019,Cybercrime,177,3.0
+Meghalaya,2019,Drug Cases,197,3.0
+Meghalaya,2019,Assault,402,3.0
+Meghalaya,2020,Murder,53,3.0
+Meghalaya,2020,Rape,91,3.0
+Meghalaya,2020,Kidnapping & Abduction,140,3.0
+Meghalaya,2020,Robbery,51,3.0
+Meghalaya,2020,Burglary,243,3.0
+Meghalaya,2020,Theft,752,3.0
+Meghalaya,2020,Riots,108,3.0
+Meghalaya,2020,Cybercrime,264,3.0
+Meghalaya,2020,Drug Cases,154,3.0
+Meghalaya,2020,Assault,405,3.0
+Meghalaya,2021,Murder,46,3.0
+Meghalaya,2021,Rape,101,3.0
+Meghalaya,2021,Kidnapping & Abduction,152,3.0
+Meghalaya,2021,Robbery,57,3.0
+Meghalaya,2021,Burglary,200,3.0
+Meghalaya,2021,Theft,681,3.0
+Meghalaya,2021,Riots,117,3.0
+Meghalaya,2021,Cybercrime,322,3.0
+Meghalaya,2021,Drug Cases,186,3.0
+Meghalaya,2021,Assault,377,3.0
+Meghalaya,2022,Murder,54,3.0
+Meghalaya,2022,Rape,105,3.0
+Meghalaya,2022,Kidnapping & Abduction,177,3.0
+Meghalaya,2022,Robbery,51,3.0
+Meghalaya,2022,Burglary,237,3.0
+Meghalaya,2022,Theft,701,3.0
+Meghalaya,2022,Riots,113,3.0
+Meghalaya,2022,Cybercrime,438,3.0
+Meghalaya,2022,Drug Cases,164,3.0
+Meghalaya,2022,Assault,410,3.0
+Mizoram,2015,Murder,10,1.0
+Mizoram,2015,Rape,19,1.0
+Mizoram,2015,Kidnapping & Abduction,32,1.0
+Mizoram,2015,Robbery,9,1.0
+Mizoram,2015,Burglary,44,1.0
+Mizoram,2015,Theft,156,1.0
+Mizoram,2015,Riots,21,1.0
+Mizoram,2015,Cybercrime,19,1.0
+Mizoram,2015,Drug Cases,30,1.0
+Mizoram,2015,Assault,69,1.0
+Mizoram,2016,Murder,9,1.0
+Mizoram,2016,Rape,16,1.0
+Mizoram,2016,Kidnapping & Abduction,33,1.0
+Mizoram,2016,Robbery,12,1.0
+Mizoram,2016,Burglary,51,1.0
+Mizoram,2016,Theft,144,1.0
+Mizoram,2016,Riots,22,1.0
+Mizoram,2016,Cybercrime,17,1.0
+Mizoram,2016,Drug Cases,38,1.0
+Mizoram,2016,Assault,86,1.0
+Mizoram,2017,Murder,8,1.0
+Mizoram,2017,Rape,21,1.0
+Mizoram,2017,Kidnapping & Abduction,28,1.0
+Mizoram,2017,Robbery,12,1.0
+Mizoram,2017,Burglary,51,1.0
+Mizoram,2017,Theft,179,1.0
+Mizoram,2017,Riots,26,1.0
+Mizoram,2017,Cybercrime,21,1.0
+Mizoram,2017,Drug Cases,35,1.0
+Mizoram,2017,Assault,91,1.0
+Mizoram,2018,Murder,9,1.0
+Mizoram,2018,Rape,21,1.0
+Mizoram,2018,Kidnapping & Abduction,34,1.0
+Mizoram,2018,Robbery,13,1.0
+Mizoram,2018,Burglary,48,1.0
+Mizoram,2018,Theft,171,1.0
+Mizoram,2018,Riots,25,1.0
+Mizoram,2018,Cybercrime,35,1.0
+Mizoram,2018,Drug Cases,33,1.0
+Mizoram,2018,Assault,73,1.0
+Mizoram,2019,Murder,9,1.0
+Mizoram,2019,Rape,17,1.0
+Mizoram,2019,Kidnapping & Abduction,38,1.0
+Mizoram,2019,Robbery,11,1.0
+Mizoram,2019,Burglary,57,1.0
+Mizoram,2019,Theft,159,1.0
+Mizoram,2019,Riots,23,1.0
+Mizoram,2019,Cybercrime,49,1.0
+Mizoram,2019,Drug Cases,40,1.0
+Mizoram,2019,Assault,86,1.0
+Mizoram,2020,Murder,11,1.0
+Mizoram,2020,Rape,21,1.0
+Mizoram,2020,Kidnapping & Abduction,32,1.0
+Mizoram,2020,Robbery,14,1.0
+Mizoram,2020,Burglary,58,1.0
+Mizoram,2020,Theft,178,1.0
+Mizoram,2020,Riots,24,1.0
+Mizoram,2020,Cybercrime,62,1.0
+Mizoram,2020,Drug Cases,34,1.0
+Mizoram,2020,Assault,75,1.0
+Mizoram,2021,Murder,10,1.0
+Mizoram,2021,Rape,20,1.0
+Mizoram,2021,Kidnapping & Abduction,39,1.0
+Mizoram,2021,Robbery,13,1.0
+Mizoram,2021,Burglary,55,1.0
+Mizoram,2021,Theft,169,1.0
+Mizoram,2021,Riots,25,1.0
+Mizoram,2021,Cybercrime,69,1.0
+Mizoram,2021,Drug Cases,46,1.0
+Mizoram,2021,Assault,77,1.0
+Mizoram,2022,Murder,12,1.0
+Mizoram,2022,Rape,21,1.0
+Mizoram,2022,Kidnapping & Abduction,35,1.0
+Mizoram,2022,Robbery,14,1.0
+Mizoram,2022,Burglary,52,1.0
+Mizoram,2022,Theft,196,1.0
+Mizoram,2022,Riots,30,1.0
+Mizoram,2022,Cybercrime,83,1.0
+Mizoram,2022,Drug Cases,38,1.0
+Mizoram,2022,Assault,93,1.0
+Nagaland,2015,Murder,28,2.0
+Nagaland,2015,Rape,42,2.0
+Nagaland,2015,Kidnapping & Abduction,82,2.0
+Nagaland,2015,Robbery,30,2.0
+Nagaland,2015,Burglary,124,2.0
+Nagaland,2015,Theft,345,2.0
+Nagaland,2015,Riots,63,2.0
+Nagaland,2015,Cybercrime,56,2.0
+Nagaland,2015,Drug Cases,81,2.0
+Nagaland,2015,Assault,184,2.0
+Nagaland,2016,Murder,29,2.0
+Nagaland,2016,Rape,42,2.0
+Nagaland,2016,Kidnapping & Abduction,90,2.0
+Nagaland,2016,Robbery,29,2.0
+Nagaland,2016,Burglary,109,2.0
+Nagaland,2016,Theft,439,2.0
+Nagaland,2016,Riots,60,2.0
+Nagaland,2016,Cybercrime,50,2.0
+Nagaland,2016,Drug Cases,87,2.0
+Nagaland,2016,Assault,209,2.0
+Nagaland,2017,Murder,23,2.0
+Nagaland,2017,Rape,46,2.0
+Nagaland,2017,Kidnapping & Abduction,94,2.0
+Nagaland,2017,Robbery,28,2.0
+Nagaland,2017,Burglary,126,2.0
+Nagaland,2017,Theft,382,2.0
+Nagaland,2017,Riots,67,2.0
+Nagaland,2017,Cybercrime,44,2.0
+Nagaland,2017,Drug Cases,106,2.0
+Nagaland,2017,Assault,205,2.0
+Nagaland,2018,Murder,24,2.0
+Nagaland,2018,Rape,42,2.0
+Nagaland,2018,Kidnapping & Abduction,76,2.0
+Nagaland,2018,Robbery,31,2.0
+Nagaland,2018,Burglary,117,2.0
+Nagaland,2018,Theft,451,2.0
+Nagaland,2018,Riots,62,2.0
+Nagaland,2018,Cybercrime,76,2.0
+Nagaland,2018,Drug Cases,98,2.0
+Nagaland,2018,Assault,225,2.0
+Nagaland,2019,Murder,24,2.0
+Nagaland,2019,Rape,45,2.0
+Nagaland,2019,Kidnapping & Abduction,74,2.0
+Nagaland,2019,Robbery,33,2.0
+Nagaland,2019,Burglary,131,2.0
+Nagaland,2019,Theft,415,2.0
+Nagaland,2019,Riots,71,2.0
+Nagaland,2019,Cybercrime,125,2.0
+Nagaland,2019,Drug Cases,99,2.0
+Nagaland,2019,Assault,239,2.0
+Nagaland,2020,Murder,25,2.0
+Nagaland,2020,Rape,45,2.0
+Nagaland,2020,Kidnapping & Abduction,81,2.0
+Nagaland,2020,Robbery,27,2.0
+Nagaland,2020,Burglary,129,2.0
+Nagaland,2020,Theft,482,2.0
+Nagaland,2020,Riots,56,2.0
+Nagaland,2020,Cybercrime,130,2.0
+Nagaland,2020,Drug Cases,97,2.0
+Nagaland,2020,Assault,248,2.0
+Nagaland,2021,Murder,26,2.0
+Nagaland,2021,Rape,52,2.0
+Nagaland,2021,Kidnapping & Abduction,77,2.0
+Nagaland,2021,Robbery,29,2.0
+Nagaland,2021,Burglary,149,2.0
+Nagaland,2021,Theft,495,2.0
+Nagaland,2021,Riots,57,2.0
+Nagaland,2021,Cybercrime,204,2.0
+Nagaland,2021,Drug Cases,105,2.0
+Nagaland,2021,Assault,248,2.0
+Nagaland,2022,Murder,28,2.0
+Nagaland,2022,Rape,53,2.0
+Nagaland,2022,Kidnapping & Abduction,90,2.0
+Nagaland,2022,Robbery,34,2.0
+Nagaland,2022,Burglary,118,2.0
+Nagaland,2022,Theft,379,2.0
+Nagaland,2022,Riots,64,2.0
+Nagaland,2022,Cybercrime,225,2.0
+Nagaland,2022,Drug Cases,93,2.0
+Nagaland,2022,Assault,239,2.0
+Odisha,2015,Murder,1340,47.0
+Odisha,2015,Rape,1913,47.0
+Odisha,2015,Kidnapping & Abduction,3954,47.0
+Odisha,2015,Robbery,1344,47.0
+Odisha,2015,Burglary,6075,47.0
+Odisha,2015,Theft,16469,47.0
+Odisha,2015,Riots,2982,47.0
+Odisha,2015,Cybercrime,2588,47.0
+Odisha,2015,Drug Cases,4794,47.0
+Odisha,2015,Assault,9916,47.0
+Odisha,2016,Murder,1197,47.0
+Odisha,2016,Rape,2300,47.0
+Odisha,2016,Kidnapping & Abduction,4259,47.0
+Odisha,2016,Robbery,1424,47.0
+Odisha,2016,Burglary,4794,47.0
+Odisha,2016,Theft,21005,47.0
+Odisha,2016,Riots,3039,47.0
+Odisha,2016,Cybercrime,2474,47.0
+Odisha,2016,Drug Cases,3946,47.0
+Odisha,2016,Assault,10045,47.0
+Odisha,2017,Murder,1183,47.0
+Odisha,2017,Rape,2368,47.0
+Odisha,2017,Kidnapping & Abduction,3448,47.0
+Odisha,2017,Robbery,1489,47.0
+Odisha,2017,Burglary,6542,47.0
+Odisha,2017,Theft,16394,47.0
+Odisha,2017,Riots,3352,47.0
+Odisha,2017,Cybercrime,2284,47.0
+Odisha,2017,Drug Cases,4888,47.0
+Odisha,2017,Assault,10604,47.0
+Odisha,2018,Murder,1270,47.0
+Odisha,2018,Rape,2474,47.0
+Odisha,2018,Kidnapping & Abduction,4438,47.0
+Odisha,2018,Robbery,1408,47.0
+Odisha,2018,Burglary,5498,47.0
+Odisha,2018,Theft,20302,47.0
+Odisha,2018,Riots,3265,47.0
+Odisha,2018,Cybercrime,4182,47.0
+Odisha,2018,Drug Cases,4884,47.0
+Odisha,2018,Assault,9771,47.0
+Odisha,2019,Murder,1389,47.0
+Odisha,2019,Rape,2084,47.0
+Odisha,2019,Kidnapping & Abduction,4114,47.0
+Odisha,2019,Robbery,1258,47.0
+Odisha,2019,Burglary,5597,47.0
+Odisha,2019,Theft,18905,47.0
+Odisha,2019,Riots,2950,47.0
+Odisha,2019,Cybercrime,5721,47.0
+Odisha,2019,Drug Cases,4415,47.0
+Odisha,2019,Assault,9995,47.0
+Odisha,2020,Murder,1190,47.0
+Odisha,2020,Rape,2305,47.0
+Odisha,2020,Kidnapping & Abduction,3797,47.0
+Odisha,2020,Robbery,1311,47.0
+Odisha,2020,Burglary,6204,47.0
+Odisha,2020,Theft,21071,47.0
+Odisha,2020,Riots,3213,47.0
+Odisha,2020,Cybercrime,6856,47.0
+Odisha,2020,Drug Cases,4485,47.0
+Odisha,2020,Assault,11467,47.0
+Odisha,2021,Murder,1323,47.0
+Odisha,2021,Rape,2424,47.0
+Odisha,2021,Kidnapping & Abduction,3611,47.0
+Odisha,2021,Robbery,1458,47.0
+Odisha,2021,Burglary,5907,47.0
+Odisha,2021,Theft,19804,47.0
+Odisha,2021,Riots,3234,47.0
+Odisha,2021,Cybercrime,8545,47.0
+Odisha,2021,Drug Cases,4890,47.0
+Odisha,2021,Assault,11364,47.0
+Odisha,2022,Murder,1465,47.0
+Odisha,2022,Rape,2645,47.0
+Odisha,2022,Kidnapping & Abduction,4872,47.0
+Odisha,2022,Robbery,1333,47.0
+Odisha,2022,Burglary,5667,47.0
+Odisha,2022,Theft,17717,47.0
+Odisha,2022,Riots,3357,47.0
+Odisha,2022,Cybercrime,11180,47.0
+Odisha,2022,Drug Cases,4451,47.0
+Odisha,2022,Assault,12088,47.0
+Punjab,2015,Murder,651,30.0
+Punjab,2015,Rape,1571,30.0
+Punjab,2015,Kidnapping & Abduction,2293,30.0
+Punjab,2015,Robbery,768,30.0
+Punjab,2015,Burglary,3477,30.0
+Punjab,2015,Theft,10790,30.0
+Punjab,2015,Riots,1683,30.0
+Punjab,2015,Cybercrime,1413,30.0
+Punjab,2015,Drug Cases,2945,30.0
+Punjab,2015,Assault,6070,30.0
+Punjab,2016,Murder,721,30.0
+Punjab,2016,Rape,1465,30.0
+Punjab,2016,Kidnapping & Abduction,2606,30.0
+Punjab,2016,Robbery,829,30.0
+Punjab,2016,Burglary,3469,30.0
+Punjab,2016,Theft,10526,30.0
+Punjab,2016,Riots,1660,30.0
+Punjab,2016,Cybercrime,1581,30.0
+Punjab,2016,Drug Cases,2490,30.0
+Punjab,2016,Assault,6166,30.0
+Punjab,2017,Murder,828,30.0
+Punjab,2017,Rape,1275,30.0
+Punjab,2017,Kidnapping & Abduction,2546,30.0
+Punjab,2017,Robbery,841,30.0
+Punjab,2017,Burglary,4136,30.0
+Punjab,2017,Theft,12045,30.0
+Punjab,2017,Riots,2043,30.0
+Punjab,2017,Cybercrime,1522,30.0
+Punjab,2017,Drug Cases,2423,30.0
+Punjab,2017,Assault,6489,30.0
+Punjab,2018,Murder,902,30.0
+Punjab,2018,Rape,1518,30.0
+Punjab,2018,Kidnapping & Abduction,2787,30.0
+Punjab,2018,Robbery,1032,30.0
+Punjab,2018,Burglary,3399,30.0
+Punjab,2018,Theft,11272,30.0
+Punjab,2018,Riots,1971,30.0
+Punjab,2018,Cybercrime,2408,30.0
+Punjab,2018,Drug Cases,3153,30.0
+Punjab,2018,Assault,7123,30.0
+Punjab,2019,Murder,774,30.0
+Punjab,2019,Rape,1383,30.0
+Punjab,2019,Kidnapping & Abduction,2810,30.0
+Punjab,2019,Robbery,879,30.0
+Punjab,2019,Burglary,4136,30.0
+Punjab,2019,Theft,12283,30.0
+Punjab,2019,Riots,2041,30.0
+Punjab,2019,Cybercrime,3031,30.0
+Punjab,2019,Drug Cases,3024,30.0
+Punjab,2019,Assault,6386,30.0
+Punjab,2020,Murder,846,30.0
+Punjab,2020,Rape,1377,30.0
+Punjab,2020,Kidnapping & Abduction,2827,30.0
+Punjab,2020,Robbery,1064,30.0
+Punjab,2020,Burglary,3514,30.0
+Punjab,2020,Theft,11251,30.0
+Punjab,2020,Riots,1697,30.0
+Punjab,2020,Cybercrime,4613,30.0
+Punjab,2020,Drug Cases,3065,30.0
+Punjab,2020,Assault,6692,30.0
+Punjab,2021,Murder,772,30.0
+Punjab,2021,Rape,1506,30.0
+Punjab,2021,Kidnapping & Abduction,2764,30.0
+Punjab,2021,Robbery,976,30.0
+Punjab,2021,Burglary,4483,30.0
+Punjab,2021,Theft,11614,30.0
+Punjab,2021,Riots,2134,30.0
+Punjab,2021,Cybercrime,5244,30.0
+Punjab,2021,Drug Cases,2958,30.0
+Punjab,2021,Assault,7158,30.0
+Punjab,2022,Murder,904,30.0
+Punjab,2022,Rape,1818,30.0
+Punjab,2022,Kidnapping & Abduction,2430,30.0
+Punjab,2022,Robbery,877,30.0
+Punjab,2022,Burglary,4248,30.0
+Punjab,2022,Theft,13581,30.0
+Punjab,2022,Riots,1912,30.0
+Punjab,2022,Cybercrime,5570,30.0
+Punjab,2022,Drug Cases,2695,30.0
+Punjab,2022,Assault,7648,30.0
+Rajasthan,2015,Murder,2389,81.0
+Rajasthan,2015,Rape,4622,81.0
+Rajasthan,2015,Kidnapping & Abduction,7733,81.0
+Rajasthan,2015,Robbery,2930,81.0
+Rajasthan,2015,Burglary,10673,81.0
+Rajasthan,2015,Theft,41090,81.0
+Rajasthan,2015,Riots,5498,81.0
+Rajasthan,2015,Cybercrime,5739,81.0
+Rajasthan,2015,Drug Cases,8719,81.0
+Rajasthan,2015,Assault,21312,81.0
+Rajasthan,2016,Murder,2991,81.0
+Rajasthan,2016,Rape,5203,81.0
+Rajasthan,2016,Kidnapping & Abduction,8677,81.0
+Rajasthan,2016,Robbery,2960,81.0
+Rajasthan,2016,Burglary,11875,81.0
+Rajasthan,2016,Theft,43792,81.0
+Rajasthan,2016,Riots,7399,81.0
+Rajasthan,2016,Cybercrime,5520,81.0
+Rajasthan,2016,Drug Cases,9834,81.0
+Rajasthan,2016,Assault,22967,81.0
+Rajasthan,2017,Murder,2709,81.0
+Rajasthan,2017,Rape,4406,81.0
+Rajasthan,2017,Kidnapping & Abduction,8924,81.0
+Rajasthan,2017,Robbery,3624,81.0
+Rajasthan,2017,Burglary,11505,81.0
+Rajasthan,2017,Theft,44912,81.0
+Rajasthan,2017,Riots,5981,81.0
+Rajasthan,2017,Cybercrime,5321,81.0
+Rajasthan,2017,Drug Cases,8663,81.0
+Rajasthan,2017,Assault,21576,81.0
+Rajasthan,2018,Murder,3004,81.0
+Rajasthan,2018,Rape,4936,81.0
+Rajasthan,2018,Kidnapping & Abduction,9371,81.0
+Rajasthan,2018,Robbery,3535,81.0
+Rajasthan,2018,Burglary,14657,81.0
+Rajasthan,2018,Theft,39860,81.0
+Rajasthan,2018,Riots,6494,81.0
+Rajasthan,2018,Cybercrime,7781,81.0
+Rajasthan,2018,Drug Cases,11529,81.0
+Rajasthan,2018,Assault,25183,81.0
+Rajasthan,2019,Murder,2877,81.0
+Rajasthan,2019,Rape,5811,81.0
+Rajasthan,2019,Kidnapping & Abduction,9155,81.0
+Rajasthan,2019,Robbery,3432,81.0
+Rajasthan,2019,Burglary,11605,81.0
+Rajasthan,2019,Theft,47504,81.0
+Rajasthan,2019,Riots,6061,81.0
+Rajasthan,2019,Cybercrime,13294,81.0
+Rajasthan,2019,Drug Cases,11101,81.0
+Rajasthan,2019,Assault,24169,81.0
+Rajasthan,2020,Murder,2492,81.0
+Rajasthan,2020,Rape,5051,81.0
+Rajasthan,2020,Kidnapping & Abduction,8607,81.0
+Rajasthan,2020,Robbery,3229,81.0
+Rajasthan,2020,Burglary,11814,81.0
+Rajasthan,2020,Theft,50833,81.0
+Rajasthan,2020,Riots,7061,81.0
+Rajasthan,2020,Cybercrime,14625,81.0
+Rajasthan,2020,Drug Cases,10102,81.0
+Rajasthan,2020,Assault,22799,81.0
+Rajasthan,2021,Murder,3037,81.0
+Rajasthan,2021,Rape,5492,81.0
+Rajasthan,2021,Kidnapping & Abduction,10621,81.0
+Rajasthan,2021,Robbery,3428,81.0
+Rajasthan,2021,Burglary,15754,81.0
+Rajasthan,2021,Theft,50583,81.0
+Rajasthan,2021,Riots,6457,81.0
+Rajasthan,2021,Cybercrime,21402,81.0
+Rajasthan,2021,Drug Cases,9392,81.0
+Rajasthan,2021,Assault,25833,81.0
+Rajasthan,2022,Murder,2893,81.0
+Rajasthan,2022,Rape,6194,81.0
+Rajasthan,2022,Kidnapping & Abduction,10663,81.0
+Rajasthan,2022,Robbery,3813,81.0
+Rajasthan,2022,Burglary,15188,81.0
+Rajasthan,2022,Theft,43847,81.0
+Rajasthan,2022,Riots,6296,81.0
+Rajasthan,2022,Cybercrime,21724,81.0
+Rajasthan,2022,Drug Cases,9745,81.0
+Rajasthan,2022,Assault,25412,81.0
+Sikkim,2015,Murder,6,0.7
+Sikkim,2015,Rape,14,0.7
+Sikkim,2015,Kidnapping & Abduction,23,0.7
+Sikkim,2015,Robbery,8,0.7
+Sikkim,2015,Burglary,28,0.7
+Sikkim,2015,Theft,120,0.7
+Sikkim,2015,Riots,18,0.7
+Sikkim,2015,Cybercrime,13,0.7
+Sikkim,2015,Drug Cases,26,0.7
+Sikkim,2015,Assault,60,0.7
+Sikkim,2016,Murder,6,0.7
+Sikkim,2016,Rape,13,0.7
+Sikkim,2016,Kidnapping & Abduction,22,0.7
+Sikkim,2016,Robbery,7,0.7
+Sikkim,2016,Burglary,31,0.7
+Sikkim,2016,Theft,96,0.7
+Sikkim,2016,Riots,14,0.7
+Sikkim,2016,Cybercrime,12,0.7
+Sikkim,2016,Drug Cases,29,0.7
+Sikkim,2016,Assault,57,0.7
+Sikkim,2017,Murder,8,0.7
+Sikkim,2017,Rape,13,0.7
+Sikkim,2017,Kidnapping & Abduction,21,0.7
+Sikkim,2017,Robbery,8,0.7
+Sikkim,2017,Burglary,33,0.7
+Sikkim,2017,Theft,99,0.7
+Sikkim,2017,Riots,18,0.7
+Sikkim,2017,Cybercrime,12,0.7
+Sikkim,2017,Drug Cases,27,0.7
+Sikkim,2017,Assault,60,0.7
+Sikkim,2018,Murder,6,0.7
+Sikkim,2018,Rape,11,0.7
+Sikkim,2018,Kidnapping & Abduction,25,0.7
+Sikkim,2018,Robbery,8,0.7
+Sikkim,2018,Burglary,29,0.7
+Sikkim,2018,Theft,132,0.7
+Sikkim,2018,Riots,15,0.7
+Sikkim,2018,Cybercrime,24,0.7
+Sikkim,2018,Drug Cases,30,0.7
+Sikkim,2018,Assault,54,0.7
+Sikkim,2019,Murder,6,0.7
+Sikkim,2019,Rape,12,0.7
+Sikkim,2019,Kidnapping & Abduction,22,0.7
+Sikkim,2019,Robbery,7,0.7
+Sikkim,2019,Burglary,37,0.7
+Sikkim,2019,Theft,101,0.7
+Sikkim,2019,Riots,18,0.7
+Sikkim,2019,Cybercrime,36,0.7
+Sikkim,2019,Drug Cases,29,0.7
+Sikkim,2019,Assault,62,0.7
+Sikkim,2020,Murder,7,0.7
+Sikkim,2020,Rape,14,0.7
+Sikkim,2020,Kidnapping & Abduction,24,0.7
+Sikkim,2020,Robbery,8,0.7
+Sikkim,2020,Burglary,31,0.7
+Sikkim,2020,Theft,133,0.7
+Sikkim,2020,Riots,18,0.7
+Sikkim,2020,Cybercrime,37,0.7
+Sikkim,2020,Drug Cases,26,0.7
+Sikkim,2020,Assault,60,0.7
+Sikkim,2021,Murder,8,0.7
+Sikkim,2021,Rape,15,0.7
+Sikkim,2021,Kidnapping & Abduction,27,0.7
+Sikkim,2021,Robbery,7,0.7
+Sikkim,2021,Burglary,35,0.7
+Sikkim,2021,Theft,120,0.7
+Sikkim,2021,Riots,16,0.7
+Sikkim,2021,Cybercrime,46,0.7
+Sikkim,2021,Drug Cases,30,0.7
+Sikkim,2021,Assault,55,0.7
+Sikkim,2022,Murder,8,0.7
+Sikkim,2022,Rape,13,0.7
+Sikkim,2022,Kidnapping & Abduction,21,0.7
+Sikkim,2022,Robbery,8,0.7
+Sikkim,2022,Burglary,42,0.7
+Sikkim,2022,Theft,135,0.7
+Sikkim,2022,Riots,21,0.7
+Sikkim,2022,Cybercrime,59,0.7
+Sikkim,2022,Drug Cases,25,0.7
+Sikkim,2022,Assault,64,0.7
+Tamil Nadu,2015,Murder,1775,80.0
+Tamil Nadu,2015,Rape,3681,80.0
+Tamil Nadu,2015,Kidnapping & Abduction,5065,80.0
+Tamil Nadu,2015,Robbery,2087,80.0
+Tamil Nadu,2015,Burglary,7500,80.0
+Tamil Nadu,2015,Theft,26466,80.0
+Tamil Nadu,2015,Riots,4627,80.0
+Tamil Nadu,2015,Cybercrime,3574,80.0
+Tamil Nadu,2015,Drug Cases,6238,80.0
+Tamil Nadu,2015,Assault,13944,80.0
+Tamil Nadu,2016,Murder,1813,80.0
+Tamil Nadu,2016,Rape,3694,80.0
+Tamil Nadu,2016,Kidnapping & Abduction,6566,80.0
+Tamil Nadu,2016,Robbery,2429,80.0
+Tamil Nadu,2016,Burglary,9284,80.0
+Tamil Nadu,2016,Theft,26916,80.0
+Tamil Nadu,2016,Riots,4655,80.0
+Tamil Nadu,2016,Cybercrime,3532,80.0
+Tamil Nadu,2016,Drug Cases,6123,80.0
+Tamil Nadu,2016,Assault,16190,80.0
+Tamil Nadu,2017,Murder,1612,80.0
+Tamil Nadu,2017,Rape,3889,80.0
+Tamil Nadu,2017,Kidnapping & Abduction,5921,80.0
+Tamil Nadu,2017,Robbery,2268,80.0
+Tamil Nadu,2017,Burglary,9132,80.0
+Tamil Nadu,2017,Theft,32497,80.0
+Tamil Nadu,2017,Riots,4677,80.0
+Tamil Nadu,2017,Cybercrime,3723,80.0
+Tamil Nadu,2017,Drug Cases,5863,80.0
+Tamil Nadu,2017,Assault,15058,80.0
+Tamil Nadu,2018,Murder,1707,80.0
+Tamil Nadu,2018,Rape,3789,80.0
+Tamil Nadu,2018,Kidnapping & Abduction,6127,80.0
+Tamil Nadu,2018,Robbery,2340,80.0
+Tamil Nadu,2018,Burglary,7662,80.0
+Tamil Nadu,2018,Theft,25923,80.0
+Tamil Nadu,2018,Riots,4876,80.0
+Tamil Nadu,2018,Cybercrime,5177,80.0
+Tamil Nadu,2018,Drug Cases,5985,80.0
+Tamil Nadu,2018,Assault,13029,80.0
+Tamil Nadu,2019,Murder,2210,80.0
+Tamil Nadu,2019,Rape,3860,80.0
+Tamil Nadu,2019,Kidnapping & Abduction,5946,80.0
+Tamil Nadu,2019,Robbery,2124,80.0
+Tamil Nadu,2019,Burglary,8643,80.0
+Tamil Nadu,2019,Theft,32656,80.0
+Tamil Nadu,2019,Riots,4891,80.0
+Tamil Nadu,2019,Cybercrime,7498,80.0
+Tamil Nadu,2019,Drug Cases,6314,80.0
+Tamil Nadu,2019,Assault,13678,80.0
+Tamil Nadu,2020,Murder,2075,80.0
+Tamil Nadu,2020,Rape,3962,80.0
+Tamil Nadu,2020,Kidnapping & Abduction,5889,80.0
+Tamil Nadu,2020,Robbery,1973,80.0
+Tamil Nadu,2020,Burglary,8063,80.0
+Tamil Nadu,2020,Theft,35042,80.0
+Tamil Nadu,2020,Riots,4460,80.0
+Tamil Nadu,2020,Cybercrime,11477,80.0
+Tamil Nadu,2020,Drug Cases,7394,80.0
+Tamil Nadu,2020,Assault,15278,80.0
+Tamil Nadu,2021,Murder,1837,80.0
+Tamil Nadu,2021,Rape,3313,80.0
+Tamil Nadu,2021,Kidnapping & Abduction,6673,80.0
+Tamil Nadu,2021,Robbery,2539,80.0
+Tamil Nadu,2021,Burglary,9791,80.0
+Tamil Nadu,2021,Theft,31572,80.0
+Tamil Nadu,2021,Riots,4173,80.0
+Tamil Nadu,2021,Cybercrime,14781,80.0
+Tamil Nadu,2021,Drug Cases,7907,80.0
+Tamil Nadu,2021,Assault,15125,80.0
+Tamil Nadu,2022,Murder,2347,80.0
+Tamil Nadu,2022,Rape,3920,80.0
+Tamil Nadu,2022,Kidnapping & Abduction,6728,80.0
+Tamil Nadu,2022,Robbery,2566,80.0
+Tamil Nadu,2022,Burglary,10447,80.0
+Tamil Nadu,2022,Theft,33342,80.0
+Tamil Nadu,2022,Riots,4375,80.0
+Tamil Nadu,2022,Cybercrime,14557,80.0
+Tamil Nadu,2022,Drug Cases,8335,80.0
+Tamil Nadu,2022,Assault,15059,80.0
+Telangana,2015,Murder,867,38.0
+Telangana,2015,Rape,1639,38.0
+Telangana,2015,Kidnapping & Abduction,2835,38.0
+Telangana,2015,Robbery,1086,38.0
+Telangana,2015,Burglary,4760,38.0
+Telangana,2015,Theft,12917,38.0
+Telangana,2015,Riots,1920,38.0
+Telangana,2015,Cybercrime,1641,38.0
+Telangana,2015,Drug Cases,3626,38.0
+Telangana,2015,Assault,7535,38.0
+Telangana,2016,Murder,861,38.0
+Telangana,2016,Rape,1868,38.0
+Telangana,2016,Kidnapping & Abduction,3265,38.0
+Telangana,2016,Robbery,1182,38.0
+Telangana,2016,Burglary,4824,38.0
+Telangana,2016,Theft,13225,38.0
+Telangana,2016,Riots,2378,38.0
+Telangana,2016,Cybercrime,1783,38.0
+Telangana,2016,Drug Cases,3653,38.0
+Telangana,2016,Assault,7869,38.0
+Telangana,2017,Murder,1016,38.0
+Telangana,2017,Rape,1821,38.0
+Telangana,2017,Kidnapping & Abduction,2712,38.0
+Telangana,2017,Robbery,1107,38.0
+Telangana,2017,Burglary,5005,38.0
+Telangana,2017,Theft,16478,38.0
+Telangana,2017,Riots,1943,38.0
+Telangana,2017,Cybercrime,1623,38.0
+Telangana,2017,Drug Cases,3005,38.0
+Telangana,2017,Assault,8017,38.0
+Telangana,2018,Murder,1047,38.0
+Telangana,2018,Rape,1621,38.0
+Telangana,2018,Kidnapping & Abduction,3066,38.0
+Telangana,2018,Robbery,1227,38.0
+Telangana,2018,Burglary,4765,38.0
+Telangana,2018,Theft,15035,38.0
+Telangana,2018,Riots,2358,38.0
+Telangana,2018,Cybercrime,2985,38.0
+Telangana,2018,Drug Cases,3234,38.0
+Telangana,2018,Assault,7802,38.0
+Telangana,2019,Murder,1029,38.0
+Telangana,2019,Rape,2009,38.0
+Telangana,2019,Kidnapping & Abduction,3246,38.0
+Telangana,2019,Robbery,1223,38.0
+Telangana,2019,Burglary,4075,38.0
+Telangana,2019,Theft,14952,38.0
+Telangana,2019,Riots,1994,38.0
+Telangana,2019,Cybercrime,3836,38.0
+Telangana,2019,Drug Cases,3747,38.0
+Telangana,2019,Assault,8948,38.0
+Telangana,2020,Murder,873,38.0
+Telangana,2020,Rape,1786,38.0
+Telangana,2020,Kidnapping & Abduction,3462,38.0
+Telangana,2020,Robbery,1052,38.0
+Telangana,2020,Burglary,4698,38.0
+Telangana,2020,Theft,16484,38.0
+Telangana,2020,Riots,2465,38.0
+Telangana,2020,Cybercrime,4826,38.0
+Telangana,2020,Drug Cases,3418,38.0
+Telangana,2020,Assault,8618,38.0
+Telangana,2021,Murder,1027,38.0
+Telangana,2021,Rape,1595,38.0
+Telangana,2021,Kidnapping & Abduction,3487,38.0
+Telangana,2021,Robbery,1012,38.0
+Telangana,2021,Burglary,5053,38.0
+Telangana,2021,Theft,14287,38.0
+Telangana,2021,Riots,2759,38.0
+Telangana,2021,Cybercrime,6240,38.0
+Telangana,2021,Drug Cases,3449,38.0
+Telangana,2021,Assault,7234,38.0
+Telangana,2022,Murder,968,38.0
+Telangana,2022,Rape,2123,38.0
+Telangana,2022,Kidnapping & Abduction,3782,38.0
+Telangana,2022,Robbery,1150,38.0
+Telangana,2022,Burglary,4716,38.0
+Telangana,2022,Theft,17031,38.0
+Telangana,2022,Riots,2755,38.0
+Telangana,2022,Cybercrime,7885,38.0
+Telangana,2022,Drug Cases,3583,38.0
+Telangana,2022,Assault,8015,38.0
+Tripura,2015,Murder,63,4.0
+Tripura,2015,Rape,94,4.0
+Tripura,2015,Kidnapping & Abduction,198,4.0
+Tripura,2015,Robbery,66,4.0
+Tripura,2015,Burglary,304,4.0
+Tripura,2015,Theft,817,4.0
+Tripura,2015,Riots,147,4.0
+Tripura,2015,Cybercrime,119,4.0
+Tripura,2015,Drug Cases,225,4.0
+Tripura,2015,Assault,417,4.0
+Tripura,2016,Murder,62,4.0
+Tripura,2016,Rape,115,4.0
+Tripura,2016,Kidnapping & Abduction,199,4.0
+Tripura,2016,Robbery,73,4.0
+Tripura,2016,Burglary,300,4.0
+Tripura,2016,Theft,1036,4.0
+Tripura,2016,Riots,136,4.0
+Tripura,2016,Cybercrime,131,4.0
+Tripura,2016,Drug Cases,220,4.0
+Tripura,2016,Assault,427,4.0
+Tripura,2017,Murder,54,4.0
+Tripura,2017,Rape,109,4.0
+Tripura,2017,Kidnapping & Abduction,216,4.0
+Tripura,2017,Robbery,77,4.0
+Tripura,2017,Burglary,315,4.0
+Tripura,2017,Theft,973,4.0
+Tripura,2017,Riots,147,4.0
+Tripura,2017,Cybercrime,107,4.0
+Tripura,2017,Drug Cases,213,4.0
+Tripura,2017,Assault,489,4.0
+Tripura,2018,Murder,55,4.0
+Tripura,2018,Rape,108,4.0
+Tripura,2018,Kidnapping & Abduction,209,4.0
+Tripura,2018,Robbery,79,4.0
+Tripura,2018,Burglary,340,4.0
+Tripura,2018,Theft,1115,4.0
+Tripura,2018,Riots,159,4.0
+Tripura,2018,Cybercrime,193,4.0
+Tripura,2018,Drug Cases,238,4.0
+Tripura,2018,Assault,552,4.0
+Tripura,2019,Murder,57,4.0
+Tripura,2019,Rape,116,4.0
+Tripura,2019,Kidnapping & Abduction,228,4.0
+Tripura,2019,Robbery,72,4.0
+Tripura,2019,Burglary,308,4.0
+Tripura,2019,Theft,1032,4.0
+Tripura,2019,Riots,140,4.0
+Tripura,2019,Cybercrime,264,4.0
+Tripura,2019,Drug Cases,221,4.0
+Tripura,2019,Assault,444,4.0
+Tripura,2020,Murder,56,4.0
+Tripura,2020,Rape,134,4.0
+Tripura,2020,Kidnapping & Abduction,196,4.0
+Tripura,2020,Robbery,77,4.0
+Tripura,2020,Burglary,288,4.0
+Tripura,2020,Theft,1159,4.0
+Tripura,2020,Riots,146,4.0
+Tripura,2020,Cybercrime,346,4.0
+Tripura,2020,Drug Cases,264,4.0
+Tripura,2020,Assault,582,4.0
+Tripura,2021,Murder,60,4.0
+Tripura,2021,Rape,135,4.0
+Tripura,2021,Kidnapping & Abduction,212,4.0
+Tripura,2021,Robbery,77,4.0
+Tripura,2021,Burglary,278,4.0
+Tripura,2021,Theft,911,4.0
+Tripura,2021,Riots,172,4.0
+Tripura,2021,Cybercrime,431,4.0
+Tripura,2021,Drug Cases,237,4.0
+Tripura,2021,Assault,574,4.0
+Tripura,2022,Murder,73,4.0
+Tripura,2022,Rape,113,4.0
+Tripura,2022,Kidnapping & Abduction,226,4.0
+Tripura,2022,Robbery,70,4.0
+Tripura,2022,Burglary,342,4.0
+Tripura,2022,Theft,1111,4.0
+Tripura,2022,Riots,186,4.0
+Tripura,2022,Cybercrime,444,4.0
+Tripura,2022,Drug Cases,213,4.0
+Tripura,2022,Assault,511,4.0
+Uttar Pradesh,2015,Murder,9944,238.0
+Uttar Pradesh,2015,Rape,18349,238.0
+Uttar Pradesh,2015,Kidnapping & Abduction,38448,238.0
+Uttar Pradesh,2015,Robbery,11529,238.0
+Uttar Pradesh,2015,Burglary,46454,238.0
+Uttar Pradesh,2015,Theft,179154,238.0
+Uttar Pradesh,2015,Riots,25316,238.0
+Uttar Pradesh,2015,Cybercrime,23198,238.0
+Uttar Pradesh,2015,Drug Cases,33528,238.0
+Uttar Pradesh,2015,Assault,85360,238.0
+Uttar Pradesh,2016,Murder,9395,238.0
+Uttar Pradesh,2016,Rape,17596,238.0
+Uttar Pradesh,2016,Kidnapping & Abduction,39219,238.0
+Uttar Pradesh,2016,Robbery,11339,238.0
+Uttar Pradesh,2016,Burglary,51357,238.0
+Uttar Pradesh,2016,Theft,165021,238.0
+Uttar Pradesh,2016,Riots,25017,238.0
+Uttar Pradesh,2016,Cybercrime,23989,238.0
+Uttar Pradesh,2016,Drug Cases,33685,238.0
+Uttar Pradesh,2016,Assault,91687,238.0
+Uttar Pradesh,2017,Murder,12686,238.0
+Uttar Pradesh,2017,Rape,21023,238.0
+Uttar Pradesh,2017,Kidnapping & Abduction,40313,238.0
+Uttar Pradesh,2017,Robbery,11223,238.0
+Uttar Pradesh,2017,Burglary,50596,238.0
+Uttar Pradesh,2017,Theft,160429,238.0
+Uttar Pradesh,2017,Riots,28583,238.0
+Uttar Pradesh,2017,Cybercrime,24512,238.0
+Uttar Pradesh,2017,Drug Cases,37169,238.0
+Uttar Pradesh,2017,Assault,93228,238.0
+Uttar Pradesh,2018,Murder,10324,238.0
+Uttar Pradesh,2018,Rape,21460,238.0
+Uttar Pradesh,2018,Kidnapping & Abduction,35935,238.0
+Uttar Pradesh,2018,Robbery,15085,238.0
+Uttar Pradesh,2018,Burglary,54578,238.0
+Uttar Pradesh,2018,Theft,168237,238.0
+Uttar Pradesh,2018,Riots,24091,238.0
+Uttar Pradesh,2018,Cybercrime,31645,238.0
+Uttar Pradesh,2018,Drug Cases,37501,238.0
+Uttar Pradesh,2018,Assault,84035,238.0
+Uttar Pradesh,2019,Murder,12783,238.0
+Uttar Pradesh,2019,Rape,21838,238.0
+Uttar Pradesh,2019,Kidnapping & Abduction,37273,238.0
+Uttar Pradesh,2019,Robbery,11907,238.0
+Uttar Pradesh,2019,Burglary,59673,238.0
+Uttar Pradesh,2019,Theft,191516,238.0
+Uttar Pradesh,2019,Riots,24159,238.0
+Uttar Pradesh,2019,Cybercrime,52337,238.0
+Uttar Pradesh,2019,Drug Cases,42184,238.0
+Uttar Pradesh,2019,Assault,80922,238.0
+Uttar Pradesh,2020,Murder,11633,238.0
+Uttar Pradesh,2020,Rape,21741,238.0
+Uttar Pradesh,2020,Kidnapping & Abduction,33919,238.0
+Uttar Pradesh,2020,Robbery,15546,238.0
+Uttar Pradesh,2020,Burglary,60611,238.0
+Uttar Pradesh,2020,Theft,192112,238.0
+Uttar Pradesh,2020,Riots,27954,238.0
+Uttar Pradesh,2020,Cybercrime,61516,238.0
+Uttar Pradesh,2020,Drug Cases,44332,238.0
+Uttar Pradesh,2020,Assault,95532,238.0
+Uttar Pradesh,2021,Murder,10420,238.0
+Uttar Pradesh,2021,Rape,22322,238.0
+Uttar Pradesh,2021,Kidnapping & Abduction,41912,238.0
+Uttar Pradesh,2021,Robbery,13791,238.0
+Uttar Pradesh,2021,Burglary,48342,238.0
+Uttar Pradesh,2021,Theft,202154,238.0
+Uttar Pradesh,2021,Riots,26209,238.0
+Uttar Pradesh,2021,Cybercrime,71528,238.0
+Uttar Pradesh,2021,Drug Cases,38839,238.0
+Uttar Pradesh,2021,Assault,91073,238.0
+Uttar Pradesh,2022,Murder,13149,238.0
+Uttar Pradesh,2022,Rape,22767,238.0
+Uttar Pradesh,2022,Kidnapping & Abduction,35610,238.0
+Uttar Pradesh,2022,Robbery,15822,238.0
+Uttar Pradesh,2022,Burglary,63320,238.0
+Uttar Pradesh,2022,Theft,210556,238.0
+Uttar Pradesh,2022,Riots,27006,238.0
+Uttar Pradesh,2022,Cybercrime,89703,238.0
+Uttar Pradesh,2022,Drug Cases,50348,238.0
+Uttar Pradesh,2022,Assault,105645,238.0
+Uttarakhand,2015,Murder,165,11.0
+Uttarakhand,2015,Rape,310,11.0
+Uttarakhand,2015,Kidnapping & Abduction,609,11.0
+Uttarakhand,2015,Robbery,251,11.0
+Uttarakhand,2015,Burglary,906,11.0
+Uttarakhand,2015,Theft,2985,11.0
+Uttarakhand,2015,Riots,407,11.0
+Uttarakhand,2015,Cybercrime,403,11.0
+Uttarakhand,2015,Drug Cases,759,11.0
+Uttarakhand,2015,Assault,1484,11.0
+Uttarakhand,2016,Murder,212,11.0
+Uttarakhand,2016,Rape,414,11.0
+Uttarakhand,2016,Kidnapping & Abduction,572,11.0
+Uttarakhand,2016,Robbery,230,11.0
+Uttarakhand,2016,Burglary,855,11.0
+Uttarakhand,2016,Theft,3315,11.0
+Uttarakhand,2016,Riots,482,11.0
+Uttarakhand,2016,Cybercrime,400,11.0
+Uttarakhand,2016,Drug Cases,770,11.0
+Uttarakhand,2016,Assault,1521,11.0
+Uttarakhand,2017,Murder,225,11.0
+Uttarakhand,2017,Rape,374,11.0
+Uttarakhand,2017,Kidnapping & Abduction,574,11.0
+Uttarakhand,2017,Robbery,246,11.0
+Uttarakhand,2017,Burglary,1014,11.0
+Uttarakhand,2017,Theft,2936,11.0
+Uttarakhand,2017,Riots,531,11.0
+Uttarakhand,2017,Cybercrime,431,11.0
+Uttarakhand,2017,Drug Cases,672,11.0
+Uttarakhand,2017,Assault,1833,11.0
+Uttarakhand,2018,Murder,182,11.0
+Uttarakhand,2018,Rape,344,11.0
+Uttarakhand,2018,Kidnapping & Abduction,591,11.0
+Uttarakhand,2018,Robbery,265,11.0
+Uttarakhand,2018,Burglary,994,11.0
+Uttarakhand,2018,Theft,2836,11.0
+Uttarakhand,2018,Riots,480,11.0
+Uttarakhand,2018,Cybercrime,657,11.0
+Uttarakhand,2018,Drug Cases,642,11.0
+Uttarakhand,2018,Assault,1819,11.0
+Uttarakhand,2019,Murder,226,11.0
+Uttarakhand,2019,Rape,386,11.0
+Uttarakhand,2019,Kidnapping & Abduction,758,11.0
+Uttarakhand,2019,Robbery,236,11.0
+Uttarakhand,2019,Burglary,1108,11.0
+Uttarakhand,2019,Theft,3389,11.0
+Uttarakhand,2019,Riots,519,11.0
+Uttarakhand,2019,Cybercrime,796,11.0
+Uttarakhand,2019,Drug Cases,834,11.0
+Uttarakhand,2019,Assault,1627,11.0
+Uttarakhand,2020,Murder,190,11.0
+Uttarakhand,2020,Rape,335,11.0
+Uttarakhand,2020,Kidnapping & Abduction,689,11.0
+Uttarakhand,2020,Robbery,248,11.0
+Uttarakhand,2020,Burglary,1050,11.0
+Uttarakhand,2020,Theft,3671,11.0
+Uttarakhand,2020,Riots,444,11.0
+Uttarakhand,2020,Cybercrime,1214,11.0
+Uttarakhand,2020,Drug Cases,690,11.0
+Uttarakhand,2020,Assault,1876,11.0
+Uttarakhand,2021,Murder,236,11.0
+Uttarakhand,2021,Rape,404,11.0
+Uttarakhand,2021,Kidnapping & Abduction,733,11.0
+Uttarakhand,2021,Robbery,236,11.0
+Uttarakhand,2021,Burglary,995,11.0
+Uttarakhand,2021,Theft,3668,11.0
+Uttarakhand,2021,Riots,511,11.0
+Uttarakhand,2021,Cybercrime,1326,11.0
+Uttarakhand,2021,Drug Cases,774,11.0
+Uttarakhand,2021,Assault,1894,11.0
+Uttarakhand,2022,Murder,208,11.0
+Uttarakhand,2022,Rape,367,11.0
+Uttarakhand,2022,Kidnapping & Abduction,746,11.0
+Uttarakhand,2022,Robbery,280,11.0
+Uttarakhand,2022,Burglary,899,11.0
+Uttarakhand,2022,Theft,3140,11.0
+Uttarakhand,2022,Riots,470,11.0
+Uttarakhand,2022,Cybercrime,1561,11.0
+Uttarakhand,2022,Drug Cases,778,11.0
+Uttarakhand,2022,Assault,1886,11.0
+West Bengal,2015,Murder,2788,97.0
+West Bengal,2015,Rape,5124,97.0
+West Bengal,2015,Kidnapping & Abduction,8157,97.0
+West Bengal,2015,Robbery,3423,97.0
+West Bengal,2015,Burglary,12312,97.0
+West Bengal,2015,Theft,47350,97.0
+West Bengal,2015,Riots,6659,97.0
+West Bengal,2015,Cybercrime,4736,97.0
+West Bengal,2015,Drug Cases,10110,97.0
+West Bengal,2015,Assault,20220,97.0
+West Bengal,2016,Murder,2872,97.0
+West Bengal,2016,Rape,4393,97.0
+West Bengal,2016,Kidnapping & Abduction,7857,97.0
+West Bengal,2016,Robbery,3505,97.0
+West Bengal,2016,Burglary,11631,97.0
+West Bengal,2016,Theft,46497,97.0
+West Bengal,2016,Riots,6097,97.0
+West Bengal,2016,Cybercrime,5563,97.0
+West Bengal,2016,Drug Cases,10365,97.0
+West Bengal,2016,Assault,21849,97.0
+West Bengal,2017,Murder,2612,97.0
+West Bengal,2017,Rape,4699,97.0
+West Bengal,2017,Kidnapping & Abduction,7634,97.0
+West Bengal,2017,Robbery,3039,97.0
+West Bengal,2017,Burglary,13510,97.0
+West Bengal,2017,Theft,48717,97.0
+West Bengal,2017,Riots,7399,97.0
+West Bengal,2017,Cybercrime,5760,97.0
+West Bengal,2017,Drug Cases,10851,97.0
+West Bengal,2017,Assault,23292,97.0
+West Bengal,2018,Murder,2624,97.0
+West Bengal,2018,Rape,5882,97.0
+West Bengal,2018,Kidnapping & Abduction,9511,97.0
+West Bengal,2018,Robbery,3350,97.0
+West Bengal,2018,Burglary,11628,97.0
+West Bengal,2018,Theft,43186,97.0
+West Bengal,2018,Riots,6705,97.0
+West Bengal,2018,Cybercrime,9765,97.0
+West Bengal,2018,Drug Cases,10321,97.0
+West Bengal,2018,Assault,21808,97.0
+West Bengal,2019,Murder,3292,97.0
+West Bengal,2019,Rape,4717,97.0
+West Bengal,2019,Kidnapping & Abduction,9004,97.0
+West Bengal,2019,Robbery,2892,97.0
+West Bengal,2019,Burglary,14378,97.0
+West Bengal,2019,Theft,50319,97.0
+West Bengal,2019,Riots,6457,97.0
+West Bengal,2019,Cybercrime,13589,97.0
+West Bengal,2019,Drug Cases,9724,97.0
+West Bengal,2019,Assault,25887,97.0
+West Bengal,2020,Murder,3157,97.0
+West Bengal,2020,Rape,5937,97.0
+West Bengal,2020,Kidnapping & Abduction,8031,97.0
+West Bengal,2020,Robbery,3889,97.0
+West Bengal,2020,Burglary,14590,97.0
+West Bengal,2020,Theft,42872,97.0
+West Bengal,2020,Riots,7738,97.0
+West Bengal,2020,Cybercrime,14706,97.0
+West Bengal,2020,Drug Cases,11744,97.0
+West Bengal,2020,Assault,20745,97.0
+West Bengal,2021,Murder,3170,97.0
+West Bengal,2021,Rape,5606,97.0
+West Bengal,2021,Kidnapping & Abduction,8403,97.0
+West Bengal,2021,Robbery,3208,97.0
+West Bengal,2021,Burglary,11875,97.0
+West Bengal,2021,Theft,45933,97.0
+West Bengal,2021,Riots,6742,97.0
+West Bengal,2021,Cybercrime,19772,97.0
+West Bengal,2021,Drug Cases,10101,97.0
+West Bengal,2021,Assault,22466,97.0
+West Bengal,2022,Murder,3262,97.0
+West Bengal,2022,Rape,4873,97.0
+West Bengal,2022,Kidnapping & Abduction,10907,97.0
+West Bengal,2022,Robbery,3913,97.0
+West Bengal,2022,Burglary,14871,97.0
+West Bengal,2022,Theft,48515,97.0
+West Bengal,2022,Riots,8157,97.0
+West Bengal,2022,Cybercrime,20533,97.0
+West Bengal,2022,Drug Cases,9564,97.0
+West Bengal,2022,Assault,22426,97.0
+Delhi,2015,Murder,1828,32.0
+Delhi,2015,Rape,2679,32.0
+Delhi,2015,Kidnapping & Abduction,5509,32.0
+Delhi,2015,Robbery,2246,32.0
+Delhi,2015,Burglary,8656,32.0
+Delhi,2015,Theft,26241,32.0
+Delhi,2015,Riots,3504,32.0
+Delhi,2015,Cybercrime,3694,32.0
+Delhi,2015,Drug Cases,6227,32.0
+Delhi,2015,Assault,11887,32.0
+Delhi,2016,Murder,1504,32.0
+Delhi,2016,Rape,3567,32.0
+Delhi,2016,Kidnapping & Abduction,5761,32.0
+Delhi,2016,Robbery,2191,32.0
+Delhi,2016,Burglary,8885,32.0
+Delhi,2016,Theft,27167,32.0
+Delhi,2016,Riots,4134,32.0
+Delhi,2016,Cybercrime,3289,32.0
+Delhi,2016,Drug Cases,5830,32.0
+Delhi,2016,Assault,13439,32.0
+Delhi,2017,Murder,1890,32.0
+Delhi,2017,Rape,3338,32.0
+Delhi,2017,Kidnapping & Abduction,6249,32.0
+Delhi,2017,Robbery,1999,32.0
+Delhi,2017,Burglary,8396,32.0
+Delhi,2017,Theft,28184,32.0
+Delhi,2017,Riots,4308,32.0
+Delhi,2017,Cybercrime,3564,32.0
+Delhi,2017,Drug Cases,5794,32.0
+Delhi,2017,Assault,14029,32.0
+Delhi,2018,Murder,1569,32.0
+Delhi,2018,Rape,3187,32.0
+Delhi,2018,Kidnapping & Abduction,5677,32.0
+Delhi,2018,Robbery,2167,32.0
+Delhi,2018,Burglary,9412,32.0
+Delhi,2018,Theft,28472,32.0
+Delhi,2018,Riots,4586,32.0
+Delhi,2018,Cybercrime,5554,32.0
+Delhi,2018,Drug Cases,6668,32.0
+Delhi,2018,Assault,12412,32.0
+Delhi,2019,Murder,1680,32.0
+Delhi,2019,Rape,3224,32.0
+Delhi,2019,Kidnapping & Abduction,5758,32.0
+Delhi,2019,Robbery,1824,32.0
+Delhi,2019,Burglary,7535,32.0
+Delhi,2019,Theft,26274,32.0
+Delhi,2019,Riots,4970,32.0
+Delhi,2019,Cybercrime,7336,32.0
+Delhi,2019,Drug Cases,6496,32.0
+Delhi,2019,Assault,13191,32.0
+Delhi,2020,Murder,1909,32.0
+Delhi,2020,Rape,3200,32.0
+Delhi,2020,Kidnapping & Abduction,5393,32.0
+Delhi,2020,Robbery,2161,32.0
+Delhi,2020,Burglary,7327,32.0
+Delhi,2020,Theft,24444,32.0
+Delhi,2020,Riots,4061,32.0
+Delhi,2020,Cybercrime,8534,32.0
+Delhi,2020,Drug Cases,5870,32.0
+Delhi,2020,Assault,14069,32.0
+Delhi,2021,Murder,2052,32.0
+Delhi,2021,Rape,3563,32.0
+Delhi,2021,Kidnapping & Abduction,6044,32.0
+Delhi,2021,Robbery,2054,32.0
+Delhi,2021,Burglary,9895,32.0
+Delhi,2021,Theft,28300,32.0
+Delhi,2021,Riots,3956,32.0
+Delhi,2021,Cybercrime,12520,32.0
+Delhi,2021,Drug Cases,5989,32.0
+Delhi,2021,Assault,14353,32.0
+Delhi,2022,Murder,1919,32.0
+Delhi,2022,Rape,3949,32.0
+Delhi,2022,Kidnapping & Abduction,6116,32.0
+Delhi,2022,Robbery,2364,32.0
+Delhi,2022,Burglary,10235,32.0
+Delhi,2022,Theft,26437,32.0
+Delhi,2022,Riots,4285,32.0
+Delhi,2022,Cybercrime,13828,32.0
+Delhi,2022,Drug Cases,6733,32.0
+Delhi,2022,Assault,14912,32.0
