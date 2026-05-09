@@ -1,13 +1,15 @@
 {
-  "metric_name": "pct_change_total_ipc_crimes_2001_to_2012",
-  "description": "Percentage change in total reported IPC crimes nationwide from 2001 to 2012.",
+  "metric_name": "pct_change_total_ipc_crimes",
+  "description": "% change in total IPC crimes from 2001 to 2012.",
   "value": 27.48,
   "unit": "percent change",
   "threshold": 0,
   "passed": true,
   "period_start": 2001,
   "period_end": 2012,
-  "rate_per_lakh_2001": 65.63,
-  "rate_per_lakh_2012": 83.58,
-  "data_source": "NCRB District-wise IPC Crimes 2001-2012"
+  "total_cases_start": 864197,
+  "total_cases_end": 1101721,
+  "rate_per_lakh_start": 65.63,
+  "rate_per_lakh_end": 83.67,
+  "data_source": "NCRB District-wise IPC Crimes"
 }
