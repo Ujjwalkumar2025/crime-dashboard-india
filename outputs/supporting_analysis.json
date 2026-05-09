@@ -1,0 +1,125 @@
+{
+  "top5_states_total": [
+    {
+      "rank": 1,
+      "state": "Maharashtra",
+      "total_cases": 125931
+    },
+    {
+      "rank": 2,
+      "state": "Andhra Pradesh",
+      "total_cases": 119999
+    },
+    {
+      "rank": 3,
+      "state": "Bihar",
+      "total_cases": 94308
+    },
+    {
+      "rank": 4,
+      "state": "Uttar Pradesh",
+      "total_cases": 93969
+    },
+    {
+      "rank": 5,
+      "state": "Madhya Pradesh",
+      "total_cases": 91234
+    }
+  ],
+  "top5_states_per_capita": [
+    {
+      "rank": 1,
+      "state": "Andhra Pradesh",
+      "cases_per_lakh": 222.2
+    },
+    {
+      "rank": 2,
+      "state": "Chandigarh",
+      "cases_per_lakh": 183.2
+    },
+    {
+      "rank": 3,
+      "state": "Kerala",
+      "cases_per_lakh": 139.9
+    },
+    {
+      "rank": 4,
+      "state": "Mizoram",
+      "cases_per_lakh": 129.6
+    },
+    {
+      "rank": 5,
+      "state": "Haryana",
+      "cases_per_lakh": 121.6
+    }
+  ],
+  "crime_type_shares": {
+    "Assault": {
+      "total_cases": 3349666,
+      "share_pct": 30.06
+    },
+    "Theft": {
+      "total_cases": 3268984,
+      "share_pct": 29.34
+    },
+    "Burglary": {
+      "total_cases": 1093784,
+      "share_pct": 9.82
+    },
+    "Cruelty by Husband": {
+      "total_cases": 859990,
+      "share_pct": 7.72
+    },
+    "Riots": {
+      "total_cases": 773931,
+      "share_pct": 6.95
+    },
+    "Assault on Women": {
+      "total_cases": 445621,
+      "share_pct": 4.0
+    },
+    "Murder": {
+      "total_cases": 396338,
+      "share_pct": 3.56
+    },
+    "Kidnapping & Abduction": {
+      "total_cases": 331774,
+      "share_pct": 2.98
+    },
+    "Robbery": {
+      "total_cases": 241806,
+      "share_pct": 2.17
+    },
+    "Rape": {
+      "total_cases": 232713,
+      "share_pct": 2.09
+    },
+    "Dowry Deaths": {
+      "total_cases": 89620,
+      "share_pct": 0.8
+    },
+    "Dacoity": {
+      "total_cases": 59028,
+      "share_pct": 0.53
+    }
+  },
+  "fastest_growing_crime": {
+    "crime_type": "Cruelty by Husband",
+    "pct_increase": 113.21,
+    "period": "2001\u20132012"
+  },
+  "all_crime_growth_pct": {
+    "Cruelty by Husband": 113.21,
+    "Kidnapping & Abduction": 109.12,
+    "Rape": 54.31,
+    "Robbery": 38.69,
+    "Theft": 35.05,
+    "Assault on Women": 32.72,
+    "Assault": 22.67,
+    "Dowry Deaths": 20.2,
+    "Riots": -1.98,
+    "Murder": -4.89,
+    "Burglary": -7.11,
+    "Dacoity": -29.81
+  }
+}
