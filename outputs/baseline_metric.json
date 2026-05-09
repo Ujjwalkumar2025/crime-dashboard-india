@@ -1,11 +1,12 @@
 {
-  "metric_name": "national_avg_crime_rate_per_lakh_2001",
-  "description": "National average IPC crime rate in 2001 (cases per lakh population). Baseline against which all trend analysis is measured.",
+  "metric_name": "national_avg_crime_rate_per_lakh",
+  "description": "National average IPC crime rate in 2001 (cases per lakh population).",
   "value": 65.63,
   "unit": "cases per lakh population",
   "threshold": null,
   "passed": null,
   "year": 2001,
-  "total_cases_2001": 928060,
-  "data_source": "NCRB District-wise IPC Crimes 2001-2012"
+  "total_cases": 864197,
+  "total_population_millions": 1316.8,
+  "data_source": "NCRB District-wise IPC Crimes"
 }
