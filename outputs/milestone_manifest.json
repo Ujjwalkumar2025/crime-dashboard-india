@@ -2,6 +2,7 @@
   "project_title": "India Crime Intelligence Dashboard",
   "course": "ECO6810",
   "milestone_date": "2026-05-06",
+  "charter_approved": false,
   "team": [
     {
       "name": "Ujjwal Kumar",
@@ -22,23 +23,26 @@
   },
   "run_command": "uv run main.py",
   "dashboard_command": "uv run streamlit run app.py",
-  "data_source": {
-    "name": "NCRB District-wise IPC Crimes 2001\u20132012",
-    "file": "data/crime_data.csv",
-    "records": 4896,
-    "states": 34,
-    "years": "2001\u20132012"
-  },
+  "data_sources": [
+    {
+      "name": "NCRB District-wise IPC Crimes",
+      "file": "data/crime_data.csv",
+      "origin": "https://www.kaggle.com/datasets/rajanand/crime-in-india",
+      "licence": "Government of India Open Data (public domain)",
+      "probe": "uv run artifacts/probes/probe_ncrb.py",
+      "records": 4896,
+      "states": 34,
+      "years": "2001\u20132012"
+    }
+  ],
   "outputs_produced": [
     "outputs/baseline_metric.json",
     "outputs/primary_metric.json",
     "outputs/supporting_analysis.json",
     "outputs/milestone_manifest.json"
   ],
-  "next_steps": [
-    "Add linear regression crime prediction model",
-    "Complete state-level breakdown charts",
-    "Write full report.md",
-    "Deploy dashboard to Streamlit Cloud"
-  ]
+  "metrics_summary": {
+    "baseline": "65.63 cases/lakh (2001)",
+    "primary": "+27.48% change (2001\u21922012)"
+  }
 }
