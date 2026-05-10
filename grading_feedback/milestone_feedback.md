@@ -2,12 +2,19 @@
 
 Project: P25 - India Crime Intelligence Dashboard
 Repo: `Ujjwalkumar2025/crime-dashboard-india`
-Milestone score locked: 11/20
-Raw score before policy caps: 11/20
+Official milestone score after post-lock recovery: 14/20
+Post-lock sanity-check score: 17/20
 Band: `major_revision`
-Reviewed at: 2026-05-09T02:02:30
+Reviewed at: 2026-05-10T09:30:11
 
-This is the locked milestone evaluation for the May 6 milestone. The score is based on the latest repository snapshot available to the instructor review workflow when this feedback was generated.
+This is the official milestone feedback after applying the post-lock recovery policy. The locked May 6 snapshot remains the baseline, but real, reproducible fixes made after lock can recover 50% of the lost milestone points.
+
+## Score Recovery Applied
+
+- Locked milestone score: 11/20
+- Post-lock sanity-check score: 17/20
+- Official milestone score: 14/20
+- Formula: locked score + 50% of the post-lock improvement
 
 ## Graduating-Student Timeline
 
@@ -17,41 +24,22 @@ To help us meet the May 15 grade-publishing deadline from OAA, please aim to sub
 ## Rubric Breakdown
 
 - Charter lock: 1/4. the charter is not recorded as approved; charter file exists and is not obviously template; the milestone manifest does not confirm charter lock
-- Source access proof: 2/4. some data/probe evidence was found, but the manifest source list is incomplete
+- Source access proof: 4/4. source/probe evidence is present and usable
 - Baseline before sophistication: 4/4. `outputs/baseline_metric.json` is readable and contains a real metric/value
-- Reproducible dry run: 0/4. `uv run main.py` fails from a fresh copy of the repo
+- Reproducible dry run: 4/4. `uv run main.py` succeeds and writes the required milestone outputs
 - Metric schema readiness: 4/4. `outputs/primary_metric.json` is readable and machine-checkable
+
+## Policy Notes
+
+- post-lock recovery policy applied: locked score 11/20; post-lock sanity check 17/20; official score = 11 + 50% of (17 - 11) = 14/20
 
 ## What To Fix Next
 
 - Make the charter unambiguous: final question, dataset, primary metric, baseline, scope limits, and team roles should all be visible in `CHARTER.md`.
-- Make source access easy to verify: include a probe file or script, list the source in `outputs/milestone_manifest.json`, and commit a small permitted fallback if the full source is too large/private.
-- Make `uv run main.py` work from a fresh clone. If the full data is large, the script should still run on a committed sample or a clearly reproducible download path.
-
-## Reproducibility Error Observed
-
-The reviewer ran `uv run main.py` from a fresh copy of the repo. The relevant tail of the error was:
-
-```text
-Using CPython 3.14.4
-Creating virtual environment at: .venv
-Downloading numpy (5.0MiB)
-Downloading pandas (9.5MiB)
- Downloaded numpy
- Downloaded pandas
-Installed 9 packages in 28ms
-Traceback (most recent call last):
-  File "/private/var/folders/t6/gytrx5s95txg4g8vkt7rnb980000gn/T/eco6810-milestone-P25-e3cacatn/repo/main.py", line 68, in <module>
-    baseline_rate = round(total_2001 / (total_pop * 10), 2)
-                          ~~~~~~~~~~~^~~~~~~~~~~~~~~~~~
-ZeroDivisionError: division by zero
-```
 
 ## Final Phase Guidance
 
-- First priority: make the project reproducible from a fresh clone with `uv run main.py`. Do this before adding more modeling complexity.
-- Make the data path boring and reliable: source proof, fallback/sample data, and README instructions should agree.
-- This needs urgent repair. A simple, reproducible, well-explained project will score better than an ambitious project that cannot be run or verified.
+- The project is viable, but the final phase should start with cleanup. Close the mechanical gaps first, then deepen the analysis.
 - For the final submission, keep the repo as the source of truth: `README.md`, `CHARTER.md`, `main.py`, `outputs/`, `report.md`, and `AI_USAGE_LOG.md` should tell one consistent story.
 
 Please treat this feedback as a way to make the final week calmer, not as a ceiling on the final project. A clear, reproducible, honestly interpreted final submission can still be strong.
