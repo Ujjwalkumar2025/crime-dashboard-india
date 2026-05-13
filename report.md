@@ -1,7 +1,7 @@
 # Crime Patterns Across India: A State-Level Analysis Using NCRB Data (2001–2012)
 
 **Course:** ECO6810  
-**Team:** Ujjwal Kumar, Piyush  
+**Team:** Ujjwal Kumar(ujjwal.kumar_ma2024@ashoka.edu.in), Piyush Pushpad(piyush.pushpad_ma2025@ashoka.edu.in) 
 **Repo:** Ujjwalkumar2025/crime-dashboard-india  
 **Data:** National Crime Records Bureau — District-wise IPC Crimes, 2001–2012
 
