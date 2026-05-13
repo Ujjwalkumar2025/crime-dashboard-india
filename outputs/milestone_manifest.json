@@ -2,15 +2,17 @@
   "project_title": "India Crime Intelligence Dashboard",
   "course": "ECO6810",
   "milestone_date": "2026-05-06",
-  "charter_approved": false,
+  "charter_approved": true,
   "team": [
     {
       "name": "Ujjwal Kumar",
-      "handle": "Ujjwalkumar2025"
+      "handle": "Ujjwalkumar2025",
+      "email": "ujjwal.kumar_ma2024@ashoka.edu.in"
     },
     {
-      "name": "Piyush",
-      "handle": "piyush17-ux"
+      "name": "Piyush Pushpad",
+      "handle": "piyush17-ux",
+      "email": "piyush.pushpad_ma2025@ashoka.edu.in"
     }
   ],
   "status": {
